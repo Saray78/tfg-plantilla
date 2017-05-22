@@ -1,0 +1,20 @@
+<nav>
+    <div class="bar-menu col-xs-12">
+        <div class="container" id="menu">
+            <ul class="menu list-unstyled text-center">
+                {%for menu in site.data.menues%}
+                <li><a href="" class="{{menu.class}} dropdown-toggle " onclick onmouseenter="menu('{{menu.class}}')">{{menu.name}}</a>
+                    <ul class="dropdown-menu inside-menu {{menu.class}} list-unstyled">
+                        {%for submenu2 in menu.hasSubmenu%}
+                        <li><a href="{{submenu2.url}}" >{{submenu2.name}}</a></li>
+                        {%endfor%}
+                    </ul>
+                    {%endfor%}
+
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+

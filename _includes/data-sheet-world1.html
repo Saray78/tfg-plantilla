@@ -1,0 +1,108 @@
+<section class="sheet">
+    <div class="container">
+        <div id="ca-container" class="ca-container">
+            <!--<div class="ca-nav">-->
+                <!--<span class="ca-nav-prev">Previous</span>-->
+                <!--<span class="ca-nav-next">Next</span></div>-->
+
+
+            <div class="ca-wrapper">
+                {%for dataSheet in site.data.data-sheets-world1%}
+                <div class="ca-item {{dataSheet.css_class}}">
+                    <div class="ca-item-main">
+                        <div class="ca-icon{{dataSheet.img}}"></div>
+                        <h3>{{dataSheet.character_name}}</h3>
+                        <h4>
+                            <span class="ca-quote">&ldquo;</span>
+                            <span>{{dataSheet.character_importance}}</span>
+                        </h4>
+                        <a href="#" class="ca-more">más...</a>
+                    </div>
+                    <div class="ca-content-wrapper">
+                        <div class="ca-content">
+                            <h6>{{dataSheet.rol}}</h6>
+                            <a href="#" class="ca-close">close</a>
+                            <div class="ca-content-text">
+                                <table>
+                                    <tr>
+                                        <td>{{dataSheet.name-title}}</td>
+                                        <td>{{dataSheet.name}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>{{dataSheet.aniversary-title}}</td>
+                                        <td>{{dataSheet.aniversary}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>{{dataSheet.years-title}}</td>
+                                        <td>{{dataSheet.years}}</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>{{dataSheet.objects-title}}</td>
+                                        <td>{{dataSheet.objects}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>{{dataSheet.voice-title}}</td>
+                                        <td>{{dataSheet.voice1}}</td>
+                                    </tr>
+                                    <tr>
+                                        <td></td>
+                                        <td>{{dataSheet.voice2}}</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td></td>
+                                        <td>{{dataSheet.voice3}}</td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div class="content-table">
+                                <table class="table2">
+                                    <tr>
+                                        <th class="title">{{dataSheet.Anime}}</th>
+
+                                        <th></th>
+                                        <th class="title">{{dataSheet.Manga}}</th>
+                                        <th></th>
+                                        <th class="title"><a href="{{dataSheet.url}}" target="_blank">{{dataSheet.buy}}</a></th>
+                                    </tr>
+                                </table>
+                                <table>
+                                    <tr>
+                                        <th class="inter"></th>
+                                    </tr>
+                                </table>
+                                <table class="table3">
+                                    <tr>
+                                        <th class="anime">
+                                            <ul class="list-unstyled d-sheet">
+                                                <!--<li><a href="#1">1</a></li>-->
+                                                <!--<li><a href="#2">2</a></li>-->
+                                                <!--<li><a href="#3">3</a></li>-->
+                                            </ul>
+                                        </th>
+                                        <th class="intermedium"></th>
+                                        <th class="manga">
+                                            <ul class="list-unstyled d-sheet">
+                                                <!--<li><a href="#1">1</a></li>-->
+                                                <!--<li><a href="#2">2</a></li>-->
+                                                <!--<li><a href="#3">3</a></li>-->
+                                            </ul>
+                                        </th>
+
+                                    </tr>
+
+
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {%endfor%}
+
+    </div>
+        </div>
+    </div>
+
+
+</section>

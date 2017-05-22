@@ -1,0 +1,187 @@
+/*****************
+     HEADER
+******************/
+
+
+
+.bar{
+   background-color: $header-color;
+ }
+
+.bar2{
+  background-color: $header-color2;
+}
+
+.top img{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: 1px solid $black;
+  //background: $white;
+}
+
+.top img:hover{
+  background-color: $white;
+  cursor: pointer;
+}
+
+.center h1{
+  font-family: $font;
+  font-weight: $weight-bold;
+  font-size: 21pt !important;
+  color: $black;
+}
+
+/*****************
+       NAV
+******************/
+.bar-menu{
+   //background-color: #0d567a
+   background-color: #05354c;
+   padding-bottom: 15px;
+   padding-top: 15px;
+   padding-left: 88px;
+
+ }
+
+.bar-menu2{
+  //background-color: #0d567a
+  background-color: #d35669;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-left: 88px;
+
+}
+
+#menu ul{
+  display: block;
+  margin-bottom: 0px;
+  //margin-left: 73px;
+
+}
+
+#menu .inside-menu{
+  display: grid;
+
+}
+
+
+#menu2 ul{
+  display: block;
+  margin-bottom: 0px;
+  //margin-left: 73px;
+
+}
+
+#menu2 .inside-menu{
+  display: grid;
+
+}
+
+
+#menu ul li{
+   display: inline-block;
+   vertical-align: top;
+   margin-right: 20px;
+ }
+
+#menu2 ul li{
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+}
+
+#menu ul li a{
+  color: $white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  font-family: $font;
+  font-weight: $weight-regular;
+  font-size: 12pt;
+
+}
+
+#menu2 ul li a{
+  color: $black;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  font-family: $font;
+  font-weight: $weight-regular;
+  font-size: 12pt;
+
+}
+
+
+
+#menu ul li a:hover {
+
+  background-color: #0870a0;
+
+}
+
+#menu2 ul li a:hover {
+
+  background-color: $header-color2;
+
+}
+
+.inside-menu ul li{
+  //display: grid;
+  //vertical-align: top;
+}
+
+#menu ul li a{
+  text-decoration: none;
+}
+
+#menu2 ul li a{
+  text-decoration: none;
+}
+
+.dropdown-menu{
+  left: auto;
+  background-color: #05354c;
+
+}
+
+#menu .dropdown-menu.inside-menu{
+  display: none;
+
+
+}
+
+#menu2 .dropdown-menu.inside-menu{
+  display: none;
+
+
+}
+
+
+#menu .dropdown-menu.inside-menu li{
+  margin-right: 0;
+
+}
+
+//#menu .dropdown-menu.inside-menu li a{
+//  padding:3px 20px;
+//}
+
+
+#principal-image{
+  background-image: $principal-image;
+  background-size: cover;
+  background-position: center center;
+  height: $principal-image-height;
+  width: 100%;
+}
+
+.first-footer{
+  background-color: $black;
+  min-height: 68px;
+  width: 100%;
+  margin-top: 50px;
+
+}

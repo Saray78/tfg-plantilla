@@ -1,0 +1,36 @@
+- character1:
+  name: Sakura
+  img: img/characters1-1.png
+  height:
+  width:
+  url: characters-timeline.html
+  item: ca-item-1
+
+- character2:
+  name: Syaoran
+  img: img/characters1-2.png
+  height: '170px'
+  width:
+  url: characters-timeline2.html
+
+- character3:
+  name: Fye
+  img: img/characters1-3.png
+  height: '170px'
+  width: '177px'
+  url: characters-timeline3.html
+
+- character4:
+  name: Kurogane
+  img: img/characters1-4.png
+  height: '170px'
+  width: '177px'
+  url: characters-timeline4.html
+
+- character5:
+  name: Mokona
+  img: img/characters1-5.png
+  height: '170px'
+  width: '177px'
+  url: characters-timeline5.html
+

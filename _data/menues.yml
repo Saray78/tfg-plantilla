@@ -1,0 +1,57 @@
+- menu1:
+  name: Personajes
+  class: characters
+  hasSubmenu:
+  - personajes1:
+    name: Personajes principales
+    url: characters.html
+  - personajes2:
+    name: Personajes secundarios
+    url: characters2.html
+
+- menu2:
+  name: Historia
+  class: history
+  hasSubmenu:
+  - historia1:
+    name: Anime
+    url: anime-timeline.html
+  - historia2:
+    name: Manga
+    url: manga-timeline.html
+  - historia3:
+    name: Películas
+  - historia4:
+    name: OVA
+
+
+- menu3:
+  name: Mundos
+  class: worlds
+  hasSubmenu:
+  - mundos1:
+    name: País de Clow
+    url: world-timeline1.html
+  - mundos2:
+    name: País de Japón
+    url: world-timeline2.html
+  - mundos3:
+    name: Tienda de Yuuko
+    url: world-timeline3.html
+  - mundos4:
+    name: País de Celes
+    url: world-timeline4.html
+  - mundos5:
+    name: República Hanshin
+    url: world-timeline5.html
+
+- menu4:
+  name: Ítems
+  class: items
+  hasSubmenu:
+  - item1:
+    name: Objetos
+  - item2:
+    name: Armas
+
+

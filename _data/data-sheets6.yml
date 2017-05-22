@@ -1,0 +1,174 @@
+- sheet1:
+  character_name: Touya
+  character_importance: Rey del país de Clow
+  rol: Personaje Principal
+  Anime: Ver apariciones anime
+  Manga: Ver apariciones manga
+  buy: Comprar
+  img: 7
+  name-title: Nombre completo
+  name: Tôya
+  aniversary-title:
+  aniversary:
+  years-title:
+  years:
+  objects-title:
+  objects:
+  weapon-title:
+  weapon:
+  voice-title: Actores voz
+  voice1: Shinichirô Miki (japonés)
+  voice2: Jaime Roca(castellano)
+  voice3:
+  timeline:
+  - chapter1:
+    title: Capítulo 1
+    cap: 1
+    name-title: UN ENCUENTRO INEVITABLE
+    plot: Trama
+    text: Touya habla con el sacerdote Yukito sobre una mapa de unas ruinas encontradas que podrían descubrir el pasado del reino; Sakura, llega tarde a palacio y es reñida por Touya al saber que estaba con Syaoran; quién no es de su agrado y no aprueba la relación que tienen. Al marcharse, Sakura, hablan sobre una profecía en la que los dos jóvenes están predestinados, pero, se cernirá un futuro doloroso sobre ellos.
+    characters: Personajes
+    landing: País
+    isFirst: true
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class:
+    char:
+    - char1:
+      name: Touya
+      img: img/characters2-1-timeline.png
+      col: 4
+      margin: 2
+      middle: 6
+      url: characters-timeline6.html
+
+    - char2:
+      name: Yukito
+      img: img/characters2-2-timeline.png
+      col: 4
+      margin: 2
+      middle: 6
+      url: characters-timeline7.html
+
+    - char3:
+      name: Sakura
+      img: img/characters1-1-timeline.png
+      url: characters-timeline.html
+      col: 4
+      margin: 2
+      middle: 6
+
+    world:
+    - world1:
+      name: Clow
+      img: img/world1-1-timeline.png
+      col: 12
+      margin: 3
+      middle: 5
+      url: world-timeline1.html
+
+
+  - chapter1-1:
+    title:
+    name-title:
+    plot:
+    text: La obra con la que se hace Crossover es anterior a Tsubasa.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: true
+    isSpoiler: false
+    css_class: crossover
+    char:
+    - char1:
+      img: img/CCS-1.jpg
+      name: Card Captor Sakura
+      col: 12
+      middle: 3
+      url: wiki2.html
+
+  - chapter1-2:
+    title:
+    name-title: Card Captor Sakura
+    plot:
+    text:
+    characters: Personajes
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Touya
+      img: img/characters-2-1c.png
+      col: 6
+      margin: 2
+      middle: 2
+      url: wiki2-3.html
+
+    - char2:
+      name: Yukito
+      img: img/characters-2-2c.png
+      col: 6
+      margin: 2
+      middle: 2
+      url: wiki2-4.html
+
+  - chapter1:
+    title: Capítulo 1
+    name-title: UN ENCUENTRO INEVITABLE
+    plot: Trama
+    text: Al día siguiente, por la noche, el palacio es atacado por unos extraños y Syaoran llega con Sakura inconsciente. El sacerdote Yukito lee el pensamiento a Syaoran y descubre lo que ha ocurrido y los envía con la bruja de las dimensiones. Touya y Yukito se quedan luchando sin saber quiénes son los atacantes.
+    landing: País
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class:
+    char:
+    - char1:
+      name: Touya
+      img: img/characters2-1-timeline.png
+      col: 4
+      margin: 2
+      middle: 6
+      url: characters-timeline6.html
+
+    - char2:
+      name: Yukito
+      img: img/characters2-2-timeline.png
+      col: 4
+      margin: 2
+      middle: 6
+      url: characters-timeline7.html
+
+    - char3:
+      name: Sakura
+      img: img/characters1-1-timeline.png
+      url: characters-timeline.html
+      col: 4
+      margin: 2
+      middle: 6
+      url: characters-timeline.html
+
+    - char3:
+      name: Syaoran
+      img: img/characters1-2-timeline.png
+      url: characters-timeline.html
+      col: 4
+      margin: 2
+      middle: 6
+      url: characters-timeline2.html
+    world:
+    - world1:
+      name: Clow
+      img: img/world1-1-timeline.png
+      url:
+      col: 12
+      margin: 3
+      middle: 5
+      url: world-timeline1.html

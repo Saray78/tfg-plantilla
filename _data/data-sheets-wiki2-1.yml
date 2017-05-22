@@ -1,0 +1,24 @@
+- sheet1:
+  css_class: ca-item-1
+  character_name: Sakura Kinomoto
+  character_importance: Un día, encuentra unas cartas mágicas y deberá cumplir una misión...
+  rol: Personaje Principal
+  Anime: Ver apariciones anime
+  Manga: Ver apariciones Manga
+  buy: Comprar
+  url:
+  img: 19
+  name-title: Nombre completo
+  name: Sakura
+  aniversary-title: Aniversario
+  aniversary: 1 de Abril de 1988
+  years-title: Edad
+  years: 10 años
+  objects-title: Objeto
+  objects: Cartas
+  weapon-title:
+  weapon:
+  voice-title: Actores voz
+  voice1: Sakura Tange (japonés)
+  voice2: Isabel Gaudí (castellano)
+  voice3: Marta Ullod (català)

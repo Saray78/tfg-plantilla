@@ -1,0 +1,500 @@
+- sheet1:
+  css_class: ca-item-1
+  character_name: Fye
+  character_importance: De apariencia tranquila y alegre guarda un gran secreto...
+  rol: Personaje Principal
+  Anime: Ver apariciones anime
+  Manga: Ver apariciones Manga
+  buy: Comprar
+  url: https://www.normacomics.com/catalogsearch/result/?libros_serie=7999&order=fecha_publicacion&q=tsubasa+reservoir&sort=desc
+  img: 3
+  name-title: Nombre completo
+  name: Fye D. Flowrite
+  aniversary-title:
+  aniversary:
+  years-title: Edad
+  years: 23 años
+  objects-title:
+  objects:
+  weapon-title:
+  weapon:
+  voice-title: Actores voz
+  voice1: Daisuke Namikawa (japonés)
+  voice2: Emilio García (castellano)
+  voice3: Álex de Porrata (català)
+  timeline:
+  - chapter1:
+    title: Capítulo 1
+    cap: 1
+    name-title: UN ENCUENTRO INEVITABLE
+    plot: Trama
+    text: Fye debe de abandonar su mundo y congelar a su rey en un profundo sueño; el joven dejará a cargo a Chii quién deberá avisarle si el rey, Ashura, despierta. Fye, decidirá visitar a la bruja de las dimensiones, quién puede concederte deseos.
+    characters: Personajes
+    landing: País
+    isFirst: true
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class:
+    char:
+    - char1:
+      name: Fye
+      img: img/characters1-3-timeline.png
+      col: 4
+      middle: 6
+      margin: 3
+      url: characters-timeline3.html
+
+    - char2:
+      name: Chii
+      img: img/characters2-8-timeline.png
+      col: 4
+      middle: 6
+      margin: 3
+
+
+    - char3:
+      name: Ashura
+      img: img/characters2-7-timeline.png
+      col: 4
+      middle: 6
+      margin: 3
+
+    world:
+    - world1:
+      name: Celes
+      img: img/world1-4-timeline.png
+      col: 12
+      middle: 5
+      margin: 3
+      url: world-timeline4.html
+
+
+
+  - chapter1-1:
+    title:
+    name-title: Chobits
+    plot:
+    text: La obra con la que se hace Crossover es anterior a Tsubasa y trata sobre robots personales en una socieda más avanzada.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: true
+    isSpoiler: false
+    css_class: crossover
+    char:
+    - char1:
+      img: img/crossover6.jpg
+      name: Chobits
+      col: 12
+      middle: 3
+
+  - chapter1-2:
+    title:
+    name-title: Chobits
+    plot:
+    text: En Tsubasa Chii es humana pero con orejas de animal, mientras que, en Chobits es un robot.
+    characters: Personajes
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Chii
+      img: img/characters-2-8c.png
+      col: 12
+      middle: 5
+      margin: 3
+
+
+  - chapter1-3:
+    title:
+    name-title: RG Veda
+    plot:
+    text: La obra con la que se hace Crossover es anterior a Tsubasa y trata sobre antiguos dioses.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: true
+    isSpoiler: false
+    css_class: crossover
+    char:
+    - char1:
+      img: img/crossover5.jpg
+      name: RG Veda
+      col: 12
+      middle: 3
+
+
+  - chapter1-2:
+    title:
+    name-title: RG Veda
+    plot:
+    text: En este capítulo se hace crossover con el personajes Ashura, que corresponde al nombre de otro personaje de RG Veda, que es mujer; mientras que el aspecto es el de Yasha de la misma.
+    characters: Personajes
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Yasha
+      img: img/characters-2-9c.png
+      col: 12
+      middle: 5
+      margin: 3
+
+  - chapter2:
+    title: Capítulo 2
+    cap: 2
+    name-title: EL PODER PARA LUCHAR
+    plot: Trama
+    text: Fey se presenta ante la bruja y pide que pueda viajar por las dimensiones y no volver a su país; allí también se hayan tres jovenes provinientes de dimensiones diferentes, Kurogane, Syaoran y Sakura inconsciente . <br> Los tres jovenes, necesitan la ayuda de Yuuko, la bruja, para hacer realidad a sus deseos. Ésta, les concede lo qué piden a cambio de algo valiosos para ellos. Los tres serán enviados a otras dimensiones para lograr lo que desean. La bruja les entrega a Mokona quien les llevará a través de las distintas dimensiones.
+    characters: Personajes
+    landing: País
+    isFirst: true
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class: false
+    char:
+    - char1:
+      name: Sakura
+      img: img/characters1-1-timeline.png
+      col: 3
+      margin: 3
+      middle:
+      url: characters-timeline.html
+
+    - char2:
+      name: Syaoran
+      img: img/characters1-2-timeline.png
+      col: 3
+      margin: 3
+      middle:
+      url: characters-timeline2.html
+
+    - char3:
+      name: Fye
+      img: img/characters1-3-timeline.png
+      col: 3
+      margin: 3
+      middle:
+      url: characters-timeline3.html
+
+    - char4:
+      name: Kurogane
+      img: img/characters1-4-timeline.png
+      col: 3
+      margin: 3
+      middle:
+      url: characters-timeline4.html
+
+    - char5:
+      name: Mokona
+      img: img/characters1-5-timeline.png
+      col: 12
+      margin: 4
+      middle: 5
+      url: characters-timeline5.html
+
+
+    world:
+    - world1:
+      name: Japón actual
+      img: img/world1-2-timeline.png
+      col: 12
+      margin: 3
+      middle: 5
+      hid:
+      url: world-timeline3.html
+  - chapter1-8:
+    title:
+    name-title: XXXHOLIC
+    plot:
+    text: En este capítulo hay un crossover de obra entre Tsubasa y XXXholic
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: true
+    isSpoiler: false
+    css_class: crossover
+    char:
+    - char1:
+      name: xxxHolic
+      img: img/crossover2.jpg
+      col: 12
+      middle: 7
+      margin: 3
+
+
+  - chapter1-9:
+    title:
+    name-title: XXXHOLIC
+    plot:
+    text: En este capítulo hay un crossover de Personaje entre Tsubasa y XXXholic; Yuuko la bruja de las dimensiones en Tsubasa es Yuuko Ichihara en xxxHolic; también hace el mismo papel y vive en el mismo lugar.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Yuuko
+      img: img/characters-2-3c.png
+      col: 12
+      middle: 5
+      margin: 3
+
+  - chapter2-1:
+    title:
+    name-title: MAGIC KNIGHT RAYEARTH
+    plot:
+    text: En este capítulo hay un crossover de obra entre Tsubasa y Magic Knight Rayearth.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: true
+    isSpoiler: false
+    css_class: crossover
+    char:
+    - char1:
+      name: Magin Knight Rayearth
+      img: img/crossover3.jpg
+      col: 12
+      middle: 8
+      margin: 3
+
+
+  - chapter2-3:
+    title:
+    name-title: MAGIC KNIGHT RAYEARTH
+    plot:
+    text: En este capítulo hay un crossover de Personaje entre Tsubasa y Magic knight Rayearth; Mokona (blanca) o también conocida como Soel o Modoki, aparece en esta última donde tuvo su primera aparición y fue inspiración para el anime de Tsubasa.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Mokona
+      img: img/characters-2-5c.png
+      col: 12
+      middle: 5
+      margin: 3
+
+  - chapter2-4:
+    title:
+    name-title:
+    plot:
+    text: Lo que ha dado a cambio Fye para poder ir a otras dimensiones y no volver a Celes es el tatuaje que llevaba en la espalda, del cuál se desconoce qué significa, pero, se intuye que Fye es un mago.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: true
+    css_class: spoiler
+    char:
+  - chapter2-5:
+    title:
+    name-title: EL PODER PARA LUCHAR
+    plot: Trama
+    text: Mokona les teletransporta a la república de Hanshin, se verán envueltos en una batalla de bandas.
+    characters: Personajes
+    landing: País
+    ability: Habilidad
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class: false
+    char:
+    - char1:
+      name: Sakura
+      img: img/characters1-1-timeline.png
+      col: 3
+      margin: 3
+      middle:
+      url: characters-timeline.html
+
+    - char2:
+      name: Syaoran
+      img: img/characters1-2-timeline.png
+      col: 3
+      margin: 3
+      middle:
+      url: characters-timeline2.html
+
+    - char3:
+      name: Fye
+      img: img/characters1-3-timeline.png
+      col: 3
+      margin: 3
+      middle:
+      url: characters-timeline3.html
+
+    - char4:
+      name: Kurogane
+      img: img/characters1-4-timeline.png
+      col: 3
+      margin: 3
+      middle:
+      url: characters-timeline4.html
+
+    - char5:
+      name: Mokona
+      img: img/characters1-5-timeline.png
+      col: 12
+      margin: 4
+      middle: 5
+      url: characters-timeline5.html
+
+
+    world:
+    - world1:
+      name: República <br> Hanshin
+      img: img/world1-3-timeline.png
+      col: 12
+      margin: 3
+      middle: 5
+      hid:
+      url: world-timeline5.html
+    ability:
+
+
+  - chapter3:
+    title: Capítulo 3
+    cap: 3
+    name-title: LA ESPADA QUE DESTRUYE EL MAL
+    plot: Trama
+    text: Fye se da cuenta que en las ropas de Syaoran consigue se había quedado engachada una pluma, consiguiendo así la primera pluma para Sakura. Más tarde, Sakura es llevada a un hostal donde dos habitantes de la república de Hanshin que conocen a la buja de las dimensiones acogen a la joven y ella se queda allí hasta que sus compañeros encuentren más plumas. Allí Fye promete ayudar a Syaoran con su cometido de encontrar todas las plumas de la princesa.
+    characters: Personajes
+    landing: País
+    object-name: Objeto
+    Weapon:
+    isFirst: true
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class: false
+    char:
+    - char1:
+      name: Syaoran
+      img: img/characters1-2-timeline.png
+      col: 3
+      margin: 3
+      middle:
+      url: characters-timeline2.html
+
+    - char2:
+      name: Sakura
+      img: img/characters1-1-timeline.png
+      col:
+      margin: 3
+      middle:
+      url: characters-timeline.html
+
+    - char3:
+      name: Arashi
+      img: img/characters2-4-timeline.png
+      col: 3
+      margin: 3
+      middle:
+
+    - char4:
+      name: Fye
+      img: img/characters1-3-timeline.png
+      col: 3
+      margin: 3
+      middle:
+      url: characters-timeline3.html
+
+    - char4:
+      name: Sorata
+      img: img/characters2-5-timeline.png
+      col: 12
+      margin: 4
+      middle: 5
+
+    world:
+    - world1:
+      name: República <br> Hanshin
+      img: img/world1-3-timeline.png
+      col: 12
+      margin: 3
+      middle: 5
+      hid:
+      url: world-timeline5.html
+
+    object:
+    - object1:
+      name: Pluma
+      img: img/object1-1-timeline.png
+      col: 12
+      margin: 3
+      middle: 5
+      hid:
+
+
+  - chapter3-1:
+    title:
+    name-title: X (Ekusu)
+    plot:
+    text: En este capítulo hay un crossover de obra entre Tsubasa y X
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: true
+    isSpoiler: false
+    css_class: crossover
+    char:
+    - char1:
+      name: X (Ekusu)
+      img: img/crossover4.jpg
+      col: 12
+      middle: 9
+      margin: 3
+
+
+  - chapter3-2:
+    title:
+    name-title: X (Ekusu)
+    plot:
+    text: En este capítulo hay un crossover de Personaje entre Tsubasa y X (Ekusu en japonés); Arashi y Sorata aperecen en el anime llamada X; también como pareja de enamorados y su misma personalidad.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Arashi
+      img: img/characters-2-6c.png
+      col: 6
+      middle: 2
+      margin: 2
+
+    - char2:
+      name: Sorata
+      img: img/characters-2-7c.png
+      col: 6
+      middle: 2
+      margin: 2

@@ -1,0 +1,48 @@
+---
+---
+
+/*****************
+     VARIABLES
+******************/
+
+/*****************
+     COLORES
+******************/
+
+$white: white;
+$black: black;
+$header-color: #1890CC;
+$header-color2: #efd0d5;
+$font: 'Roboto', sans-serif;
+$weight-regular: 400;
+$weight-bold: 700;
+
+/*****************
+       NAV
+******************/
+
+$principal-image: url("../img/logo3.jpg");
+$principal-image-height: 660px;
+$principal-color: #05354c;
+$principal-color2: #d35669;
+
+
+
+
+
+
+
+
+
+/*****************
+     IMPORTS
+******************/
+
+@import "bootstrap",
+"font-awesome",
+"layout",
+"basic",
+"chars",
+"data-sheets",
+"timeline"
+;

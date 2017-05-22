@@ -1,0 +1,1076 @@
+- sheet1:
+  css_class: ca-item-1
+  character_name: Tsubasa Reservoir <br> Chronicles
+  character_importance: Sakura, princesa del país de Clow, un día, una presencia misteriosa la llama hacia unas ruinas, donde unas alas en su espalda crecerán ...
+  rol: Manga
+  Anime: Ver capítulos del Anime
+  Manga: Ver Capítulos del Manga
+  buy: Comprar
+  img: 12
+  name-title: Creado por
+  name: CLAMP
+  edit-title: Editorial
+  edit: Kōdansha
+  publication-title: Publicado en
+  publication: Shōnen Magazine (Japón), Norma Editorial (España)
+  publication1-title: Inicio de publicación
+  publication1: 21 de mayo de 2003
+  publication2-title: Fin de publicación
+  publication2: 7 de octubre de 2009
+  volume-title: Volúmenes
+  volume: 38
+  timeline:
+  - chapter1:
+    title: Capítulo 1.1
+    cap: 1.1
+    name-title: EL INICIO DEL MUNDO PARTE 1
+    plot: Trama
+    text: Al principiio del capítulo, presenciamos un sueño de Sakura, donde unas alas salían de su espalda, salía volando y un joven, Syaoran no podía alcanzarla, separandóse.
+    characters: Personajes
+    landing:
+    isFirst: true
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class:
+
+    char:
+    - char1:
+      name: Sakura
+      img: img/characters1-1m.png
+      url: characters-timeline.html
+      col: 6
+      middle: 2
+      margin: 2
+
+    - char2:
+      name: Syaoran
+      img: img/characters1-2m.png
+      url: characters-timeline2.html
+      col: 6
+      middle: 2
+      margin: 2
+
+    anime2:
+    - anime1:
+      anime-cap: anime-timeline.html#1
+
+
+  - chapter1-1:
+    title:
+    name-title:
+    plot:
+    text: La obra con la que se hace Crossover es anterior a Tsubasa.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: true
+    isSpoiler: false
+    css_class: crossover
+    char:
+    - char1:
+      img: img/CCS-1.jpg
+      name: Card Captor Sakura
+      col: 12
+      middle: 3
+      url: wiki2.html
+
+  - chapter1-2:
+    title:
+    name-title: Card Captor Sakura
+    plot:
+    text: Hay crossover entre estos dos personajes; mientras que en Tsubasa son adolescentes, en Card Captor Sakura, tienen edades comprendidas entre los diez años. Poseen el mismo nombre excepto en la forma de escribir 'Syaoran'. En Card Captor Sakura lo encontramos como Shaoran.
+    characters: Personajes
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Sakura
+      img: img/characters-1-1cm.png
+      col: 6
+      middle: 4
+      margin: 2
+      url: wiki2-1.html
+
+    - char2:
+      name: Shaoran
+      img: img/characters-1-2cm.png
+      col: 6
+      middle: 4
+      margin: 2
+      url: wiki2-2.html
+
+  - chapter1-3:
+    title:
+    cap: 1.3
+    name-title: EL INICIO DEL MUNDO PARTE 1
+    plot: TRAMA
+    text: Syaoran llega a casa pasados varios meses fuera por el estudio de las ruinas de la ciudad y de pronto, la joven princesa irrumpe, en su casa. Amigos de la infancia desde que el joven llego con su padre al País de Clow. Allí es convencido por ella para pasear por la ciudad hasta el anochecer. La princesa le dicen al joven que le gustaría que viviera en el palacio con ella y entonces intenta confesar su amor por él, pero es interrumpida por las campanas de la ciudad y regresa al castillo.
+    characters: Personajes
+    landing: País
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class:
+    anime2:
+    - anime1:
+      anime-cap: anime-timeline.html#1.3
+    char:
+    - char1:
+      name: Sakura
+      img: img/characters1-1m.png
+      url: characters-timeline.html
+      margin: 2
+      col: 6
+      middle: 2
+
+    - char2:
+      name: Syaoran
+      img: img/characters1-2m.png
+      url: characters-timeline2.html
+      margin: 2
+      col: 6
+      middle: 2
+
+    world:
+    - world1:
+      name: Clow
+      img: img/world1-1m.png
+      col: 12
+      margin: 3
+      middle: 5
+      hid:
+      url: world-timeline1.html
+
+  - chapter1-4:
+    title:
+    cap: 1.4
+    name-title: UN ENCUENTRO INEVITABLE
+    plot: Trama
+    text: Al llegar a palacio, su hermano Touya la riñe por llegar tarde y haber estado en compañía de Syaoran, quien no es de su agrado y no acepta la relación que tienen. Más tarde el sacerdote Yukito aparece con un mapa de unas ruinas encontradas en las excavaciones del yacimiento del reino; Sakura se retira a su habitación, mientras, Touya le recuerda Yukito la profecía que un día le contó en la albergan dolor a los dos jovenes, siendo Syaoran el única que pueda ayudarla.
+    characters: Personajes
+    landing: País
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class:
+    anime2:
+    - anime1:
+      anime-cap: anime-timeline.html#1.4
+    char:
+    - char1:
+      name: Sakura
+      img: img/characters1-1m.png
+      url: characters-timeline.html
+      col: 4
+      margin: 2
+      middle: 6
+
+    - char2:
+      name: Touya
+      img: img/characters2-1m.png
+      url: characters-timeline6.html
+      col: 4
+      margin: 2
+      middle: 6
+
+    - char3:
+      name: Yukito
+      img: img/characters2-4m.png
+      url: characters-timeline7.html
+      col: 4
+      margin: 2
+      middle: 6
+
+    world:
+    - world1:
+      name: Clow
+      img: img/world1-1m.png
+      col: 12
+      margin: 3
+      middle: 5
+      url: world-timeline1.html
+
+  - chapter1-5:
+    title:
+    name-title: Card Captor Sakura
+    plot:
+    text:
+    characters: Personajes
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Touya
+      img: img/characters2-1m.png
+      col: 6
+      margin: 2
+      middle: 2
+      url: wiki2-3.html
+
+    - char2:
+      name: Yukito
+      img: img/characters2-4m.png
+      col: 6
+      margin: 2
+      middle: 2
+      url: wiki-2-4.html
+
+  - chapter1-6:
+    title: Capítulo 1.2
+    cap: 1.2
+    name-title: EL INICIO DEL MUNDO PARTE 2
+    plot: Trama
+    text: Por una lado la conversación entre Touya y Yukito prosigue, sabiendo que la princesa esconde un poder capaz de cambiar el mundo. Por otro lado, Sakura se haya en su habitación y es atraída por una fuerza misteriosa hacia las ruinas. Allí, se encuentra con Syaoran, quién seguía con el estudio de éstas. Al acercarse la joven a una roca con un símbolo desconocido le crecen unas alas que se fragmentan esparciendóse.
+    characters: Personajes
+    landing: País
+    isFirst: true
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class:
+    anime2:
+    - anime1:
+      anime-cap: anime-timeline.html#1.6
+    char:
+
+    - char1:
+      name: Touya
+      img: img/characters2-1m.png
+      url: characters-timeline6.html
+      col: 3
+      margin: 2
+      middle:
+
+    - char2:
+      name: Yukito
+      img: img/characters2-4m.png
+      url: characters-timeline7.html
+      col: 3
+      margin: 2
+      middle:
+
+    - char3:
+      name: Sakura
+      img: img/characters1-1m.png
+      url: characters-timeline.html
+      col: 3
+      margin: 2
+      middle:
+
+    - char4:
+      name: Syaoran
+      img: img/characters1-2m.png
+      url: characters-timeline2.html
+      col: 3
+      margin: 2
+      middle:
+    world:
+    - world1:
+      name: Clow
+      img: img/world1-1m.png
+      url:
+      col: 12
+      margin: 3
+      middle: 5
+      url: world-timeline1.html
+
+
+  - chapter1-7:
+    title:
+    cap: 1.7
+    name-title: EL INICIO DEL MUNDO PARTE 2
+    plot: Trama
+    text: Un misterioso grupo, observa lo acontecido en las ruinas a través de un espejo. Su objetivo es Sakura y su poder, que les permitirá cambiar el mundo.
+    characters: Personajes
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class:
+    anime2:
+    - anime1:
+      anime-cap: anime-timeline.html#1.7
+    char:
+    - char1:
+      name: Fei Wang Reed
+      img: img/characters2-11m.png
+      url: /
+      col: 6
+      margin: 2
+      middle: 2
+
+    - char2:
+      name: Xing Huo
+      img: img/characters2-12m.png
+      url: /
+      col: 6
+      margin: 2
+      middle: 2
+
+
+  - chapter1-8:
+    title:
+    cap: 1.8
+    name-title: EL INICIO DEL MUNDO PARTE 2
+    plot: Trama
+    text: Sakura, al haber perdido sus alas se desmaya y es llevada por Syaoran de vuelta al palacio donde unos desconocidos están atacando el lugar. Allí, gracias a la intervención del sacerdote Yukito, la princesa será teletransportada donde se encuentra la bruja de las dimensiones, quién podrá hacer algo después de lo acontecido a Sakura.
+    characters: Personajes
+    landing: País
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class:
+    anime2:
+    - anime1:
+      anime-cap: anime-timeline.html#1.9
+    char:
+    - char1:
+      name: Sakura
+      img: img/characters1-1m.png
+      url: characters-timeline.html
+      col: 4
+      margin: 2
+      middle: 6
+
+    - char2:
+      name: Syaoran
+      img: img/characters1-2m.png
+      url: characters-timeline2.html
+      col: 4
+      margin: 2
+      middle: 6
+
+    - char2:
+      name: Yuuko
+      img: img/characters2-3-m.png
+      url: characters-timeline8.html
+      col: 4
+      margin: 2
+      middle: 6
+
+    world:
+    - world1:
+      name: Clow
+      img: img/world1-1m.png
+      col: 4
+      margin: 3
+      middle: 6
+      url: world-timeline1.html
+
+    - world2:
+      name: Japón actual
+      img: img/world1-3m.png
+      col: 4
+      margin: 3
+      hidden: hid
+      middle: 6
+      url: world-timeline3.html
+
+
+  - chapter1-9:
+    title:
+    name-title: XXXHOLIC
+    plot:
+    text: En este capítulo hay un crossover de obra entre Tsubasa y XXXholic
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: true
+    isSpoiler: false
+    css_class: crossover
+    char:
+    - char1:
+      name: xxxHolic
+      img: img/crossover2m.jpg
+      col: 12
+      middle: 7
+      margin: 3
+
+
+  - chapter1-10:
+    title:
+    name-title: XXXHOLIC
+    plot:
+    text: En este capítulo hay un crossover de Personaje entre Tsubasa y XXXholic; Yuuko la bruja de las dimensiones en Tsubasa es Yuuko Ichihara en xxxHolic; también hace el mismo papel y vive en el mismo lugar.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Yuuko
+      img: img/characters2-3m.png
+      col: 12
+      middle: 5
+      margin: 3
+
+  - chapter1-11:
+    title:
+    name-title:
+    plot:
+    text: Las alas de Sakura representan los trozos de sus recuerdos, su alma; ésta se ha esparcido por los distintos mundos, sin ella, morirà. El grupo desconocido, Fei Wang Reed y Xing Huo desean las plumas para ellos y así poder ir por todas las dimensiones. Otro dato importanto, es el apellido de Fei Wang, "Reed", hace referencia a un mago conocido de Card Captor Sakura llamado Clow Reed.
+    characters: Personajes
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: true
+    css_class: spoiler
+    char:
+    - char1:
+      name: Clow Reed
+      img: img/characters-2-1sm.png
+      col: 12
+      middle: 5
+      margin: 3
+
+  - chapter2:
+    title: Capítulo 2
+    name-title: EL COSTE DE LOS RECUERDOS
+    cap: 2
+    plot: Trama
+    text: Kurogane, el ninja más fuerte del país de Japon (feudal), ha acabado con todos sus adversarios y mata para demostrar su fortaleza. La princesa Tomoyo, como castigo le envía con la bruja de las dimensiones para que aprenda a ser un buen ninja y deje de matar.
+    characters: Personajes
+    landing: País
+    isFirst: true
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class:
+    anime2:
+    - anime1:
+      anime-cap: anime-timeline.html#110
+    char:
+    - char1:
+      name: Kurogane
+      img: img/characters1-4m.png
+      url: characters-timeline4.html
+      col: 4
+      middle: 6
+      margin: 3
+
+    - char2:
+      name: Tomoyo
+      img: img/characters2-10m.png
+      col: 4
+      middle: 6
+      margin: 3
+
+
+    - char3:
+      name: Souma
+      img: img/characters2-9m.png
+      col: 4
+      middle: 6
+      margin: 3
+
+    world:
+    - world1:
+      name: Japón feudal
+      img: img/world1-5m.png
+      col: 12
+      middle: 5
+      margin: 3
+
+
+  - chapter2-1:
+    title:
+    name-title: Card Captor Sakura
+    plot:
+    text: La obra con la que se hace Crossover es anterior a Tsubasa y la protagonista debe recuperar unas cartas mágicas que se han esparcido por la ciudad.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: true
+    isSpoiler: false
+    css_class: crossover
+    char:
+    - char1:
+      img: img/CCS-1.jpg
+      name: Card Captor Sakura
+      col: 12
+      middle: 3
+      url: wiki2.html
+
+  - chapter2-2:
+    title:
+    name-title: Card Captor Sakura
+    plot:
+    text: En tsubasa Tomoyo es una princesa, mientras que en Card Captor Sakura es una colegiala de diez años y mejor amiga se Sakura.
+    characters: Personajes
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Tomoyo
+      img: img/characters-2-11mc.png
+      col: 12
+      middle: 5
+      margin: 3
+
+
+  - chapter2-3:
+    title:
+    name-title: RG Veda
+    plot:
+    text: La obra con la que se hace Crossover es anterior a Tsubasa y trata sobre antiguos dioses.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: true
+    isSpoiler: false
+    css_class: crossover
+    char:
+    - char1:
+      img: img/crossover5.jpg
+      name: RG Veda
+      col: 12
+      middle: 3
+
+
+  - chapter2-4:
+    title:
+    name-title: RG Veda
+    plot:
+    text: En este capítulo se hace crossover Souma, una de las ninjas más fuertes.
+    characters: Personajes
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Souma
+      img: img/characters-2-10c.png
+      col: 12
+      middle: 5
+      margin: 3
+
+
+  - chapter2-5:
+    title:
+    cap: 2.5
+    name-title: EL COSTE DE LOS RECUERDOS
+    plot: Trama
+    text: Fye debe de abandonar su mundo y congelar a su rey en un profundo sueño; el joven dejará a cargo a Chii, quién ha sido creada por él, deberá avisarle si el rey, Ashura, despierta. Fye, decidirá visitar a la bruja de las dimensiones, quién puede concederte deseos.
+    characters: Personajes
+    landing: País
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class:
+    anime2:
+    - anime1:
+      anime-cap: anime-timeline.html#1.8
+    char:
+    - char1:
+      name: Fye
+      img: img/characters1-3m.png
+      url: characters-timeline3.html
+      col: 4
+      middle: 6
+      margin: 3
+
+    - char2:
+      name: Chii
+      img: img/characters2-8m.png
+      col: 4
+      middle: 6
+      margin: 3
+
+
+    - char3:
+      name: Ashura
+      img: img/characters2-7m.png
+      col: 4
+      middle: 6
+      margin: 3
+
+    world:
+    - world1:
+      name: Celes
+      img: img/world1-6m.png
+      col: 12
+      middle: 5
+      margin: 3
+      url: world-timeline4.html
+
+
+
+  - chapter2-6:
+    title:
+    name-title: Chobits
+    plot:
+    text: La obra con la que se hace Crossover es anterior a Tsubasa y trata sobre robots personales en una socieda más avanzada.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: true
+    isSpoiler: false
+    css_class: crossover
+    char:
+    - char1:
+      img: img/crossover6m.jpg
+      name: Chobits
+      col: 12
+      middle: 3
+
+  - chapter2-7:
+    title:
+    name-title: Chobits
+    plot:
+    text: En Tsubasa Chii es humana pero con orejas de animal, mientras que, en Chobits es un robot.
+    characters: Personajes
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Chii
+      img: img/characters-2-8cm.png
+      col: 12
+      middle: 5
+      margin: 3
+
+
+  - chapter2-8:
+    title:
+    name-title: RG Veda
+    plot:
+    text: La obra con la que se hace Crossover es anterior a Tsubasa y trata sobre antiguos dioses.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: true
+    isSpoiler: false
+    css_class: crossover
+    char:
+    - char1:
+      img: img/crossover5.jpg
+      name: RG Veda
+      col: 12
+      middle: 3
+
+
+  - chapter2-9:
+    title:
+    name-title: RG Veda
+    plot:
+    text: En este capítulo se hace crossover con el personajes Ashura, que corresponde al nombre de otro personaje de RG Veda, que es mujer; mientras que el aspecto es el de Yasha de la misma.
+    characters: Personajes
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Yasha
+      img: img/characters-2-9c.png
+      col: 12
+      middle: 5
+      margin: 3
+
+
+
+  - chapter2-10:
+    title:
+    cap: 210
+    name-title: EL COSTE DE LOS RECUERDOS
+    plot: Trama
+    text: Sakura sigue inconsciente ante la bruja de las dimensiones y sólo podrá recuperarse si recupera todos los pedazos de sus recuerdos esparcidos por los mundos; allí Syaoran y la princesa se han encontrado en la tienda de la bruja a Fye y Kurogane. El primero no quiere regresar a su mundo y el segundo sí quiere, por lo que Yuuko, la bruja les propone que viajen juntos a través de Mokona; la única que puede llevarlos a través de todos los mundos, aunque no puede controlar el destino al que les lleva. Deberán pagar un precio cada uno para poder viajar.
+    characters: Personajes
+    landing: País
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class: false
+    anime2:
+    - anime1:
+      anime-cap: anime-timeline.html#2
+    char:
+    - char1:
+      name: Sakura
+      img: img/characters1-1m.png
+      url: characters-timeline.html
+      col: 3
+      margin: 3
+      middle:
+
+    - char2:
+      name: Syaoran
+      img: img/characters1-2m.png
+      url: characters-timeline2.html
+      col: 3
+      margin: 3
+      middle:
+
+    - char3:
+      name: Fye
+      img: img/characters1-3m.png
+      url: characters-timeline3.html
+      col: 3
+      margin: 3
+      middle:
+
+    - char4:
+      name: Kurogane
+      img: img/characters1-4m.png
+      url: characters-timeline4.html
+      col: 3
+      margin: 3
+      middle:
+
+    - char5:
+      name: Mokona
+      img: img/characters1-5m.png
+      url: characters-timeline5.html
+      col: 3
+      margin: 4
+      middle:
+
+    - char6:
+      name: Yuuko
+      img: img/characters2-3m.png
+      url: characters-timeline8.html
+      col: 3
+      margin: 4
+      middle:
+
+
+    world:
+    - world1:
+      name: Japón actual
+      img: img/world1-3m.png
+      col: 12
+      margin: 3
+      middle: 5
+      hid:
+      url: world-timeline3.html
+
+  - chapter2-1:
+    title:
+    name-title:
+    plot:
+    text: Lo que ha dado a cambio Syaoran para poder ir a otras dimensiones y salvar a Sakura, quién ha perdido todos los recuerdos, es la relación que tenían; la bruja le advierte que, aunque la princesa recupere todos sus recuerdos nunca recuperarán la relación que tenían ni los sentiemientos que la joven albergaba hacia él. <br> Kurogane ha dado su espada del dragón; jurando que regrasaría a por ella y Fye es el tatuaje que llevaba en la espalda, del cuál se desconoce qué significa, pero, se intuye que Fye es un mago.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: true
+    css_class: spoiler
+    char:
+
+  - chapter2-2:
+    title:
+    name-title: MAGIC KNIGHT RAYEARTH
+    plot:
+    text: En este capítulo hay un crossover de obra entre Tsubasa y Magic Knight Rayearth.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: true
+    isSpoiler: false
+    css_class: crossover
+    char:
+    - char1:
+      name: Magic Knight rayearth
+      img: img/crossover3m.jpg
+      col: 12
+      middle: 8
+      margin: 3
+
+
+  - chapter2-3:
+    title:
+    name-title: MAGIC KNIGHT RAYEARTH
+    plot:
+    text: En este capítulo hay un crossover de Personaje entre Tsubasa y Magic knight Rayearth; Mokona (blanca) o también conocida como Soel o Modoki, aparece en esta última donde tuvo su primera aparición y fue inspiración para el anime de Tsubasa.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Mokona
+      img: img/characters-2-5cm.png
+      col: 12
+      middle: 5
+      margin: 3
+
+
+  - chapter3:
+    title: Capítulo 3
+    name-title: LA PLUMA NECESARIA
+    cap: 3
+    plot: Trama
+    text: Mokona les transporta a la república de Hanshin, Sakura seguirá inconsciente y allí los chicos se irán conociendo mejor mientras y gracias Fye encuentran una pluma que se había quedado engachada en las ropas de Syaoran. Syaoran, se verá envuelto en ella y adquirirá la habilida 'Kudan', cuya habilidad tienen todos los que viven en ese mundo; un poder interno que protege a quién lo tiene. Él obtendrá Rayearth el guardián del fuego de nivel uno; ya que tiene una mente fuerte.
+    characters: Personajes
+    landing: País
+    ability2: Habilidad
+    object-name: Objeto
+    isFirst: true
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class: false
+    anime2:
+    - anime1:
+      anime-cap: anime-timeline.html#2.4
+    char:
+    - char1:
+      name: Sakura
+      img: img/characters1-1m.png
+      url: characters-timeline.html
+      col: 3
+      margin: 3
+      middle:
+
+    - char2:
+      name: Syaoran
+      img: img/characters1-2m.png
+      url: characters-timeline2.html
+      col: 3
+      margin: 3
+      middle:
+
+    - char3:
+      name: Fye
+      img: img/characters1-3m.png
+      url: characters-timeline3.html
+      col: 3
+      margin: 3
+      middle:
+
+    - char4:
+      name: Kurogane
+      img: img/characters1-4m.png
+      url: characters-timeline4.html
+      col: 3
+      margin: 3
+      middle:
+
+    - char5:
+      name: Mokona
+      img: img/characters1-5m.png
+      url: characters-timeline5.html
+      col: 12
+      margin: 4
+      middle: 5
+
+
+    world:
+    - world1:
+      name: República <br> Hanshin
+      img: img/world1-4m.png
+      col: 12
+      margin: 3
+      middle: 5
+      hid:
+      url: world-timeline5.html
+
+    object:
+    - object1:
+      name: Pluma
+      img: img/object1-1m.png
+      col: 12
+      margin: 3
+      middle: 5
+      hid:
+    ability:
+    - ability1:
+      name: Rayearth
+      img: img/raye.png
+      col: 12
+      margin: 3
+      middle: 5
+
+
+
+  - chapter3-1:
+    title:
+    cap: 3.1
+    name-title: LA PLUMA NECESARIA
+    plot: Trama
+    text:  El grupo será acogido por dos habitantes de la república de Hanshin que conocen a la buja de las dimensiones y les explican como es en el mundo en el qué están, podrán quedarse hasta que encuentren más plumas de Sakura.
+    characters: Personajes
+    landing: País
+    object-name:
+    Weapon:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: false
+    css_class: false
+    anime2:
+    - anime1:
+      anime-cap: anime-timeline.html#3
+    char:
+    - char1:
+      name: Sakura
+      img: img/characters1-1m.png
+      url: characters-timeline.html
+      col: 3
+      margin: 3
+      middle:
+
+    - char2:
+      name: Syaoran
+      img: img/characters1-2m.png
+      url: characters-timeline2.html
+      col: 3
+      margin: 3
+      middle:
+
+    - char1:
+      name: Fye
+      img: img/characters1-3m.png
+      url: characters-timeline3.html
+      col: 3
+      margin: 3
+      middle:
+
+    - char2:
+      name: Kurogane
+      img: img/characters1-4m.png
+      url: characters-timeline4.html
+      col: 3
+      margin: 3
+      middle:
+
+    - char2:
+      name: Mokona
+      img: img/characters1-5m.png
+      url: characters-timeline5.html
+      col: 3
+      margin: 3
+      middle:
+
+
+    - char1:
+      name: Arashi
+      img: img/characters2-4-m.png
+      url:
+      col: 3
+      margin: 3
+      middle:
+
+    - char3:
+      name: Sorata
+      img: img/characters2-5m.png
+      col: 3
+      margin: 3
+      middle:
+
+    world:
+    - world1:
+      name: República <br> Hanshin
+      img: img/world1-4m.png
+      col: 12
+      margin: 3
+      middle: 5
+      hid:
+      url: world-timeline5.html
+
+
+
+  - chapter3-1:
+    title:
+    name-title:
+    plot:
+    text: Cada vez que Mokona habrá los ojos, significará que hay una pluma cerca y que aún queda una en ese mundo.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: false
+    isSpoiler: true
+    css_class: spoiler
+    char:
+
+  - chapter3-1:
+    title:
+    name-title: X (Ekusu)
+    plot:
+    text: En este capítulo hay un crossover de obra entre Tsubasa y X
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: false
+    isCrossover: true
+    isSpoiler: false
+    css_class: crossover
+    char:
+    - char1:
+      name: X (Ekusu)
+      img: img/crossover4m.jpg
+      col: 12
+      middle: 9
+      margin: 3
+
+
+  - chapter3-2:
+    title:
+    name-title: X (Ekusu)
+    plot:
+    text: En este capítulo hay un crossover de Personaje entre Tsubasa y X (Ekusu en japonés); Arashi y Sorata aperecen en el anime llamada X; también como pareja de enamorados y su misma personalidad.
+    characters:
+    landing:
+    isFirst: false
+    isCharacterCrossover: true
+    isCrossover: false
+    isSpoiler: false
+    css_class: Charactercrossover
+    char:
+    - char1:
+      name: Arashi
+      img: img/characters-2-6cm.png
+      col: 6
+      middle: 2
+      margin: 2
+
+    - char2:
+      name: Sorata
+      img: img/characters-2-7cm.png
+      col: 6
+      middle: 2
+      margin: 2

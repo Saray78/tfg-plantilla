@@ -1,0 +1,261 @@
+<span class="ir-arriba icon-arrow-up2"><i class="fa fa-arrow-up" aria-hidden="true"></i></span>
+<div id="cd-timeline" class="cd-container">
+    {%for timeline in site.data.data-sheets8%}
+    {%for timeline2 in timeline.timeline%}
+    <div class="cd-timeline-block">
+        {%if timeline2.isFirst == true%}
+        <div class="cd-timeline-img cd-picture">
+            <h1>{{timeline2.title}}</h1>
+
+        </div> <!-- cd-timeline-img -->
+        {%else%}
+        <div class="cd-timeline-img cd-picture transparent">
+        </div> <!-- cd-timeline-img -->
+        {%endif%}
+        {%if timeline2.isCharacterCrossover == true%}
+        <div class="cd-timeline-content {{timeline2.css_class}}">
+            <h1>Personaje Crossover</h1>
+            <div class="hide-content">
+                <h2>{{timeline2.name-title}}</h2>
+                <h3 class="text-timeline">{{timeline2.plot}}</h3>
+                <p class="story">{{timeline2.text}}</p>
+                <!--<a href="#0" class="cd-read-more">Read more</a>-->
+                <h3 class="text-timeline">{{timeline2.characters}}</h3>
+
+                {%for timeline3 in timeline2.char%}
+                <div class="col-lg-{{timeline3.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline3.margin}} inside-char2">
+                    <img src="{{timeline3.img}}" class="image">
+                    <div class="middle{{timeline3.middle}}">
+                        <div class="text2"><a href="">{{timeline3.name}}</a></div>
+                    </div>
+                </div>
+                {%endfor%}
+                <h3 class="text-timeline">{{timeline2.landing}}</h3>
+                {%for timeline4 in timeline2.world%}
+                <div class="col-lg-{{timeline4.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline4.margin}} inside-char2">
+                    <img src="{{timeline4.img}}" class="image">
+                    <div class="middle{{timeline4.middle}}">
+                        <div class="text2"><a href="">{{timeline4.name}}</a></div>
+                    </div>
+                </div>
+                {%endfor%}
+            </div>
+        </div> <!-- cd-timeline-content -->
+
+        {%elsif timeline2.isCrossover == true%}
+        <div class="cd-timeline-content {{timeline2.css_class}}">
+            <h1>Crossover</h1>
+            <div class="hide-content">
+                <h2>{{timeline2.name-title}}</h2>
+                <h3 class="text-timeline">{{timeline2.plot}}</h3>
+                <p class="story">{{timeline2.text}}</p>
+                <h3 class="text-timeline">{{timeline2.characters}}</h3>
+
+                {%for timeline3 in timeline2.char%}
+                <div class="col-lg-{{timeline3.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline3.margin}} inside-char2">
+                    <img src="{{timeline3.img}}" class="image">
+                    <div class="middle{{timeline3.middle}}">
+                        <div class="text2"><a href="">{{timeline3.name}}</a></div>
+                    </div>
+                </div>
+                {%endfor%}
+                <h3 class="text-timeline">{{timeline2.landing}}</h3>
+                {%for timeline4 in timeline2.world%}
+                <div class="col-lg-{{timeline4.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline4.margin}} inside-char2">
+                    <img src="{{timeline4.img}}" class="image">
+                    <div class="middle{{timeline4.middle}}">
+                        <div class="text2"><a href="">{{timeline4.name}}</a></div>
+                    </div>
+                </div>
+                {%endfor%}
+                <span class="cd-date">Jan 14</span>
+            </div>
+
+        </div> <!-- cd-timeline-content -->
+
+            {%elsif timeline2.isSpoiler == true%}
+            <div class="cd-timeline-content {{timeline2.css_class}}">
+                <h1>Spoiler</h1>
+                <div class="hide-content">
+                    <h2 class="text-timeline">{{timeline2.name-title}}</h2>
+                    <h3 class="text-timeline">{{timeline2.plot}}</h3>
+                    <p class="story">{{timeline2.text}}</p>
+                    <h3 class="text-timeline">{{timeline2.characters}}</h3>
+
+                    {%for timeline3 in timeline2.char%}
+                    <div class="col-lg-{{timeline3.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline3.col}} inside-char2">
+                        <img src="{{timeline3.img}}" class="image">
+                        <div class="middle{{timeline3.middle}}">
+                            <div class="text2"><a href="">{{timeline3.name}}</a></div>
+                        </div>
+                    </div>
+                    {%endfor%}
+                    <h3 class="text-timeline">{{timeline2.landing}}</h3>
+                    {%for timeline4 in timeline2.world%}
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-margin{{timeline4.col}} inside-char2">
+                        <img src="{{timeline4.img}}" class="image">
+                        <div class="middle{{timeline4.middle}}">
+                            <div class="text2"><a href="">{{timeline4.name}}</a></div>
+                        </div>
+                    </div>
+                    {%endfor%}
+                    <span class="cd-date">Jan 14</span>
+                </div>
+            </div> <!-- cd-timeline-content -->
+
+        {%elsif timeline2.isSpoiler == true%}
+        <div class="cd-timeline-content {{timeline2.css_class}}">
+            <h1>Spoiler</h1>
+            <div class="hide-content">
+                <h2 class="text-timeline">{{timeline2.name-title}}</h2>
+                <h3 class="text-timeline">{{timeline2.plot}}</h3>
+                <p class="story">{{timeline2.text}}</p>
+                <h3 class="text-timeline">{{timeline2.characters}}</h3>
+
+                {%for timeline3 in timeline2.char%}
+                <div class="col-lg-{{timeline3.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline3.col}} inside-char2">
+                    <img src="{{timeline3.img}}" class="image">
+                    <div class="middle{{timeline3.middle}}">
+                        <div class="text2"><a href="">{{timeline3.name}}</a></div>
+                    </div>
+                </div>
+                {%endfor%}
+                <h3 class="text-timeline">{{timeline2.landing}}</h3>
+                {%for timeline4 in timeline2.world%}
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-margin{{timeline4.col}} inside-char2">
+                    <img src="{{timeline4.img}}" class="image">
+                    <div class="middle{{timeline4.middle}}">
+                        <div class="text2"><a href="">{{timeline4.name}}</a></div>
+                    </div>
+                </div>
+                {%endfor%}
+                <span class="cd-date">Jan 14</span>
+            </div>
+        </div> <!-- cd-timeline-content -->
+
+        {%else%}
+        <div class="cd-timeline-content {{timeline2.css_class}}">
+            <h2 class="text-timeline">{{timeline2.name-title}}</h2>
+            <h3 class="text-timeline">{{timeline2.plot}}</h3>
+            <p class="story">{{timeline2.text}}</p>
+            <!--<a href="#0" class="cd-read-more">Read more</a>-->
+            <h3 class="text-timeline">{{timeline2.characters}}</h3>
+
+            {%for timeline3 in timeline2.char%}
+            <div class="col-lg-{{timeline3.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline3.margin}} inside-char2">
+                <img src="{{timeline3.img}}" class="image">
+                <div class="middle{{timeline3.middle}}">
+                    <div class="text2"><a href="">{{timeline3.name}}</a></div>
+                </div>
+            </div>
+            {%endfor%}
+            <h3 class="text-timeline2 {{timeline4.hidden}}">{{timeline2.landing}}</h3>
+            {%for timeline4 in timeline2.world%}
+          <div class="col-lg-{{timeline4.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline4.margin}} inside-char2">
+
+              <img src="{{timeline4.img}}" class="image">
+              <div class="middle{{timeline4.middle}}">
+                  <div class="text2"><a href="">{{timeline4.name}}</a></div>
+              </div>
+          </div>
+          {%endfor%}
+            <h3 class="text-timeline2 {{timeline5.hidden}}">{{timeline2.object-name}}</h3>
+            {%for timeline5 in timeline2.object%}
+            <div class="col-lg-{{timeline5.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline5.margin}} inside-char2">
+                <img src="{{timeline5.img}}" class="image">
+                <div class="middle{{timeline5.middle}}">
+                    <div class="text2"><a href="">{{timeline5.name}}</a></div>
+                </div>
+            </div>
+            {%endfor%}
+            <h3 class="text-timeline2 {{timeline5.hidden}}">{{timeline2.weapon}}</h3>
+            {%for timeline6 in timeline2.weapon%}
+            <div class="col-lg-{{timeline6.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline6.margin}} inside-char2">
+                <img src="{{timeline6.img}}" class="image">
+                <div class="middle{{timeline6.middle}}">
+                    <div class="text2"><a href="">{{timeline6.name}}</a></div>
+                </div>
+            </div>
+            {%endfor%}
+
+            <h3 class="text-timeline2 {{timeline6.hidden}}">{{timeline2.weapon}}</h3>
+            {%for timeline7 in timeline2.ability%}
+            <div class="col-lg-{{timeline7.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline7.margin}} inside-char2">
+                <img src="{{timeline7.img}}" class="image">
+                <div class="middle{{timeline7.middle}}">
+                    <div class="text2"><a href="">{{timeline7.name}}</a></div>
+                </div>
+            </div>
+            {%endfor%}
+
+          <span class="cd-date">Jan 14</span>
+      </div> <!-- cd-timeline-content -->
+        {%endif%}
+
+    </div> <!-- cd-timeline-block -->
+    {%endfor%}
+    {%endfor%}
+    <!--<div class="cd-timeline-block">-->
+        <!--<div class="cd-timeline-img cd-movie">-->
+            <!--<img src="img/cd-icon-movie.svg" alt="Movie">-->
+        <!--</div> &lt;!&ndash; cd-timeline-img &ndash;&gt;-->
+
+        <!--<div class="cd-timeline-content">-->
+            <!--<h2>Title of section 2</h2>-->
+            <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde?</p>-->
+            <!--<a href="#0" class="cd-read-more">Read more</a>-->
+            <!--<span class="cd-date">Jan 18</span>-->
+        <!--</div> &lt;!&ndash; cd-timeline-content &ndash;&gt;-->
+    <!--</div> &lt;!&ndash; cd-timeline-block &ndash;&gt;-->
+
+    <!--<div class="cd-timeline-block">-->
+        <!--<div class="cd-timeline-img cd-picture">-->
+            <!--<img src="img/cd-icon-picture.svg" alt="Picture">-->
+        <!--</div> &lt;!&ndash; cd-timeline-img &ndash;&gt;-->
+
+        <!--<div class="cd-timeline-content">-->
+            <!--<h2>Title of section 3</h2>-->
+            <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, obcaecati, quisquam id molestias eaque asperiores voluptatibus cupiditate error assumenda delectus odit similique earum voluptatem doloremque dolorem ipsam quae rerum quis. Odit, itaque, deserunt corporis vero ipsum nisi eius odio natus ullam provident pariatur temporibus quia eos repellat consequuntur perferendis enim amet quae quasi repudiandae sed quod veniam dolore possimus rem voluptatum eveniet eligendi quis fugiat aliquam sunt similique aut adipisci.</p>-->
+            <!--<a href="#0" class="cd-read-more">Read more</a>-->
+            <!--<span class="cd-date">Jan 24</span>-->
+        <!--</div> &lt;!&ndash; cd-timeline-content &ndash;&gt;-->
+    <!--</div> &lt;!&ndash; cd-timeline-block &ndash;&gt;-->
+
+    <!--<div class="cd-timeline-block">-->
+        <!--<div class="cd-timeline-img cd-location">-->
+            <!--<img src="img/cd-icon-location.svg" alt="Location">-->
+        <!--</div> &lt;!&ndash; cd-timeline-img &ndash;&gt;-->
+
+        <!--<div class="cd-timeline-content">-->
+            <!--<h2>Title of section 4</h2>-->
+            <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>-->
+            <!--<a href="#0" class="cd-read-more">Read more</a>-->
+            <!--<span class="cd-date">Feb 14</span>-->
+        <!--</div> &lt;!&ndash; cd-timeline-content &ndash;&gt;-->
+    <!--</div> &lt;!&ndash; cd-timeline-block &ndash;&gt;-->
+
+    <!--<div class="cd-timeline-block">-->
+        <!--<div class="cd-timeline-img cd-location">-->
+            <!--<img src="img/cd-icon-location.svg" alt="Location">-->
+        <!--</div> &lt;!&ndash; cd-timeline-img &ndash;&gt;-->
+
+        <!--<div class="cd-timeline-content">-->
+            <!--<h2>Title of section 5</h2>-->
+            <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum.</p>-->
+            <!--<a href="#0" class="cd-read-more">Read more</a>-->
+            <!--<span class="cd-date">Feb 18</span>-->
+        <!--</div> &lt;!&ndash; cd-timeline-content &ndash;&gt;-->
+    <!--</div> &lt;!&ndash; cd-timeline-block &ndash;&gt;-->
+
+    <!--<div class="cd-timeline-block">-->
+        <!--<div class="cd-timeline-img cd-movie">-->
+            <!--<img src="img/cd-icon-movie.svg" alt="Movie">-->
+        <!--</div> &lt;!&ndash; cd-timeline-img &ndash;&gt;-->
+
+        <!--<div class="cd-timeline-content">-->
+            <!--<h2>Final Section</h2>-->
+            <!--<p>This is the content of the last section</p>-->
+            <!--<span class="cd-date">Feb 26</span>-->
+        <!--</div> &lt;!&ndash; cd-timeline-content &ndash;&gt;-->
+    <!--</div> &lt;!&ndash; cd-timeline-block &ndash;&gt;-->
+    </div>

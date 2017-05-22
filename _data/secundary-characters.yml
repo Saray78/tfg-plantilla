@@ -1,0 +1,35 @@
+- character1:
+  name: Touya
+  img: img/characters2-2.png
+  height:
+  width:
+  url: characters-timeline6.html
+
+- character2:
+  name: Yukito
+  img: img/characters2-1.png
+#  height: '170px'
+  width:
+  url: characters-timeline7.html
+
+- character3:
+  name: Yuuko
+  img: img/characters2-3.png
+#  height: '170px'
+#  width: '177px'
+  url: characters-timeline8.html
+
+- character4:
+  name: Fei Wang Reed
+  img: img/characters2-4.png
+#  height: '170px'
+#  width: '177px'
+  url: characters-timeline9.html
+
+- character5:
+  name: Xing Huo
+  img: img/characters2-5.png
+#  height: '170px'
+#  width: '177px'
+  url: characters-timeline10.html
+  margin: '50px'

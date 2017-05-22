@@ -1,0 +1,11 @@
+- submenu1:
+  name: Anime
+
+- submenu2:
+  name: Manga
+
+- submenu3:
+  name: Películas
+
+- submenu4:
+  name: OVA
