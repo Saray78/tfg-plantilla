@@ -39,17 +39,13 @@
       name: Sakura
       img: img/characters1-1m.png
       url: characters-timeline.html
-      col: 6
-      middle: 2
-      margin: 2
+        
 
     - char2:
       name: Syaoran
       img: img/characters1-2m.png
       url: characters-timeline2.html
-      col: 6
-      middle: 2
-      margin: 2
+    
 
     anime2:
     - anime1:
@@ -72,8 +68,6 @@
     - char1:
       img: img/CCS-1.jpg
       name: Card Captor Sakura
-      col: 12
-      middle: 3
       url: wiki2.html
 
   - chapter1-2:
@@ -92,17 +86,11 @@
     - char1:
       name: Sakura
       img: img/characters-1-1cm.png
-      col: 6
-      middle: 4
-      margin: 2
       url: wiki2-1.html
 
     - char2:
       name: Shaoran
       img: img/characters-1-2cm.png
-      col: 6
-      middle: 4
-      margin: 2
       url: wiki2-2.html
 
   - chapter1-3:
@@ -126,26 +114,22 @@
       name: Sakura
       img: img/characters1-1m.png
       url: characters-timeline.html
-      margin: 2
-      col: 6
-      middle: 2
+      
+      
+      
 
     - char2:
       name: Syaoran
       img: img/characters1-2m.png
       url: characters-timeline2.html
-      margin: 2
-      col: 6
-      middle: 2
+      
+      
+      
 
     world:
     - world1:
       name: Clow
       img: img/world1-1m.png
-      col: 12
-      margin: 3
-      middle: 5
-      hid:
       url: world-timeline1.html
 
   - chapter1-4:
@@ -168,34 +152,26 @@
     - char1:
       name: Sakura
       img: img/characters1-1m.png
-      url: characters-timeline.html
-      col: 4
-      margin: 2
-      middle: 6
+      url: characters-timeline.html  
 
     - char2:
       name: Touya
       img: img/characters2-1m.png
-      url: characters-timeline6.html
-      col: 4
-      margin: 2
-      middle: 6
+      url: characters-timeline6.html 
+      
 
     - char3:
       name: Yukito
       img: img/characters2-4m.png
       url: characters-timeline7.html
-      col: 4
-      margin: 2
-      middle: 6
+      
+      
+      
 
     world:
     - world1:
       name: Clow
       img: img/world1-1m.png
-      col: 12
-      margin: 3
-      middle: 5
       url: world-timeline1.html
 
   - chapter1-5:
@@ -213,19 +189,13 @@
     char:
     - char1:
       name: Touya
-      img: img/characters2-1m.png
-      col: 6
-      margin: 2
-      middle: 2
+      img: img/characters-2-1cm.png
       url: wiki2-3.html
 
     - char2:
       name: Yukito
-      img: img/characters2-4m.png
-      col: 6
-      margin: 2
-      middle: 2
-      url: wiki-2-4.html
+      img: img/characters-2-2cm.png
+      url: wiki2-4.html
 
   - chapter1-6:
     title: Capítulo 1.2
@@ -249,41 +219,30 @@
       name: Touya
       img: img/characters2-1m.png
       url: characters-timeline6.html
-      col: 3
-      margin: 2
-      middle:
+
 
     - char2:
       name: Yukito
       img: img/characters2-4m.png
       url: characters-timeline7.html
-      col: 3
-      margin: 2
-      middle:
+
 
     - char3:
       name: Sakura
       img: img/characters1-1m.png
       url: characters-timeline.html
-      col: 3
-      margin: 2
-      middle:
+
 
     - char4:
       name: Syaoran
       img: img/characters1-2m.png
       url: characters-timeline2.html
-      col: 3
-      margin: 2
-      middle:
+
+      
     world:
     - world1:
       name: Clow
       img: img/world1-1m.png
-      url:
-      col: 12
-      margin: 3
-      middle: 5
       url: world-timeline1.html
 
 
@@ -307,19 +266,13 @@
     - char1:
       name: Fei Wang Reed
       img: img/characters2-11m.png
-      url: /
-      col: 6
-      margin: 2
-      middle: 2
+      url: characters-timeline9.html
 
     - char2:
       name: Xing Huo
       img: img/characters2-12m.png
-      url: /
-      col: 6
-      margin: 2
-      middle: 2
-
+      url: characters-timeline10.html
+      
 
   - chapter1-8:
     title:
@@ -342,42 +295,29 @@
       name: Sakura
       img: img/characters1-1m.png
       url: characters-timeline.html
-      col: 4
-      margin: 2
-      middle: 6
 
     - char2:
       name: Syaoran
       img: img/characters1-2m.png
       url: characters-timeline2.html
-      col: 4
-      margin: 2
-      middle: 6
 
-    - char2:
+
+    - char3:
       name: Yuuko
       img: img/characters2-3-m.png
       url: characters-timeline8.html
-      col: 4
-      margin: 2
-      middle: 6
+
 
     world:
     - world1:
       name: Clow
       img: img/world1-1m.png
-      col: 4
-      margin: 3
-      middle: 6
       url: world-timeline1.html
 
     - world2:
       name: Japón actual
       img: img/world1-3m.png
-      col: 4
-      margin: 3
       hidden: hid
-      middle: 6
       url: world-timeline3.html
 
 
@@ -397,11 +337,7 @@
     - char1:
       name: xxxHolic
       img: img/crossover2m.jpg
-      col: 12
-      middle: 7
-      margin: 3
-
-
+ 
   - chapter1-10:
     title:
     name-title: XXXHOLIC
@@ -418,9 +354,9 @@
     - char1:
       name: Yuuko
       img: img/characters2-3m.png
-      col: 12
-      middle: 5
-      margin: 3
+      
+      
+      
 
   - chapter1-11:
     title:
@@ -438,9 +374,9 @@
     - char1:
       name: Clow Reed
       img: img/characters-2-1sm.png
-      col: 12
-      middle: 5
-      margin: 3
+      
+      
+      
 
   - chapter2:
     title: Capítulo 2
@@ -463,33 +399,21 @@
       name: Kurogane
       img: img/characters1-4m.png
       url: characters-timeline4.html
-      col: 4
-      middle: 6
-      margin: 3
 
     - char2:
       name: Tomoyo
       img: img/characters2-10m.png
-      col: 4
-      middle: 6
-      margin: 3
-
 
     - char3:
       name: Souma
       img: img/characters2-9m.png
-      col: 4
-      middle: 6
-      margin: 3
+      
 
     world:
     - world1:
       name: Japón feudal
       img: img/world1-5m.png
-      col: 12
-      middle: 5
-      margin: 3
-
+      
 
   - chapter2-1:
     title:
@@ -507,8 +431,6 @@
     - char1:
       img: img/CCS-1.jpg
       name: Card Captor Sakura
-      col: 12
-      middle: 3
       url: wiki2.html
 
   - chapter2-2:
@@ -527,10 +449,7 @@
     - char1:
       name: Tomoyo
       img: img/characters-2-11mc.png
-      col: 12
-      middle: 5
-      margin: 3
-
+      
 
   - chapter2-3:
     title:
@@ -548,8 +467,6 @@
     - char1:
       img: img/crossover5.jpg
       name: RG Veda
-      col: 12
-      middle: 3
 
 
   - chapter2-4:
@@ -568,9 +485,7 @@
     - char1:
       name: Souma
       img: img/characters-2-10c.png
-      col: 12
-      middle: 5
-      margin: 3
+      
 
 
   - chapter2-5:
@@ -594,35 +509,21 @@
       name: Fye
       img: img/characters1-3m.png
       url: characters-timeline3.html
-      col: 4
-      middle: 6
-      margin: 3
 
     - char2:
       name: Chii
       img: img/characters2-8m.png
-      col: 4
-      middle: 6
-      margin: 3
-
+      
 
     - char3:
       name: Ashura
       img: img/characters2-7m.png
-      col: 4
-      middle: 6
-      margin: 3
 
     world:
     - world1:
       name: Celes
       img: img/world1-6m.png
-      col: 12
-      middle: 5
-      margin: 3
       url: world-timeline4.html
-
-
 
   - chapter2-6:
     title:
@@ -640,8 +541,7 @@
     - char1:
       img: img/crossover6m.jpg
       name: Chobits
-      col: 12
-      middle: 3
+      
 
   - chapter2-7:
     title:
@@ -659,10 +559,7 @@
     - char1:
       name: Chii
       img: img/characters-2-8cm.png
-      col: 12
-      middle: 5
-      margin: 3
-
+      
 
   - chapter2-8:
     title:
@@ -680,8 +577,6 @@
     - char1:
       img: img/crossover5.jpg
       name: RG Veda
-      col: 12
-      middle: 3
 
 
   - chapter2-9:
@@ -700,10 +595,7 @@
     - char1:
       name: Yasha
       img: img/characters-2-9c.png
-      col: 12
-      middle: 5
-      margin: 3
-
+      
 
 
   - chapter2-10:
@@ -727,59 +619,41 @@
       name: Sakura
       img: img/characters1-1m.png
       url: characters-timeline.html
-      col: 3
-      margin: 3
-      middle:
+      
 
     - char2:
       name: Syaoran
       img: img/characters1-2m.png
       url: characters-timeline2.html
-      col: 3
-      margin: 3
-      middle:
+      
 
     - char3:
       name: Fye
       img: img/characters1-3m.png
       url: characters-timeline3.html
-      col: 3
-      margin: 3
-      middle:
+      
 
     - char4:
       name: Kurogane
       img: img/characters1-4m.png
       url: characters-timeline4.html
-      col: 3
-      margin: 3
-      middle:
+      
 
     - char5:
       name: Mokona
       img: img/characters1-5m.png
       url: characters-timeline5.html
-      col: 3
-      margin: 4
-      middle:
+      
 
     - char6:
       name: Yuuko
       img: img/characters2-3m.png
       url: characters-timeline8.html
-      col: 3
-      margin: 4
-      middle:
-
 
     world:
     - world1:
       name: Japón actual
       img: img/world1-3m.png
-      col: 12
-      margin: 3
-      middle: 5
-      hid:
       url: world-timeline3.html
 
   - chapter2-1:
@@ -812,10 +686,7 @@
     - char1:
       name: Magic Knight rayearth
       img: img/crossover3m.jpg
-      col: 12
-      middle: 8
-      margin: 3
-
+      
 
   - chapter2-3:
     title:
@@ -833,9 +704,6 @@
     - char1:
       name: Mokona
       img: img/characters-2-5cm.png
-      col: 12
-      middle: 5
-      margin: 3
 
 
   - chapter3:
@@ -861,69 +729,47 @@
       name: Sakura
       img: img/characters1-1m.png
       url: characters-timeline.html
-      col: 3
-      margin: 3
-      middle:
 
     - char2:
       name: Syaoran
       img: img/characters1-2m.png
       url: characters-timeline2.html
-      col: 3
-      margin: 3
-      middle:
+
 
     - char3:
       name: Fye
       img: img/characters1-3m.png
       url: characters-timeline3.html
-      col: 3
-      margin: 3
-      middle:
+      
 
     - char4:
       name: Kurogane
       img: img/characters1-4m.png
       url: characters-timeline4.html
-      col: 3
-      margin: 3
-      middle:
+
 
     - char5:
       name: Mokona
       img: img/characters1-5m.png
       url: characters-timeline5.html
-      col: 12
-      margin: 4
-      middle: 5
-
+      
 
     world:
     - world1:
       name: República <br> Hanshin
       img: img/world1-4m.png
-      col: 12
-      margin: 3
-      middle: 5
-      hid:
       url: world-timeline5.html
 
     object:
     - object1:
       name: Pluma
       img: img/object1-1m.png
-      col: 12
-      margin: 3
-      middle: 5
-      hid:
+
     ability:
     - ability1:
       name: Rayearth
       img: img/raye.png
-      col: 12
-      margin: 3
-      middle: 5
-
+      
 
 
   - chapter3-1:
@@ -949,66 +795,50 @@
       name: Sakura
       img: img/characters1-1m.png
       url: characters-timeline.html
-      col: 3
-      margin: 3
-      middle:
+      
 
     - char2:
       name: Syaoran
       img: img/characters1-2m.png
       url: characters-timeline2.html
-      col: 3
-      margin: 3
-      middle:
 
-    - char1:
+
+    - char3:
       name: Fye
       img: img/characters1-3m.png
       url: characters-timeline3.html
-      col: 3
-      margin: 3
-      middle:
 
-    - char2:
+
+    - char4:
       name: Kurogane
       img: img/characters1-4m.png
       url: characters-timeline4.html
-      col: 3
-      margin: 3
-      middle:
+      
 
-    - char2:
+
+    - char5:
       name: Mokona
       img: img/characters1-5m.png
       url: characters-timeline5.html
-      col: 3
-      margin: 3
-      middle:
+      
 
 
-    - char1:
+    - char6:
       name: Arashi
       img: img/characters2-4-m.png
       url:
-      col: 3
-      margin: 3
-      middle:
+      
 
-    - char3:
+
+    - char7:
       name: Sorata
       img: img/characters2-5m.png
-      col: 3
-      margin: 3
-      middle:
+      
 
     world:
     - world1:
       name: República <br> Hanshin
       img: img/world1-4m.png
-      col: 12
-      margin: 3
-      middle: 5
-      hid:
       url: world-timeline5.html
 
 
@@ -1043,9 +873,7 @@
     - char1:
       name: X (Ekusu)
       img: img/crossover4m.jpg
-      col: 12
-      middle: 9
-      margin: 3
+      
 
 
   - chapter3-2:
@@ -1064,13 +892,10 @@
     - char1:
       name: Arashi
       img: img/characters-2-6cm.png
-      col: 6
-      middle: 2
-      margin: 2
+      
 
     - char2:
       name: Sorata
       img: img/characters-2-7cm.png
-      col: 6
-      middle: 2
-      margin: 2
+      
+      

@@ -303,8 +303,8 @@ a{
   transition: .5s ease;
   opacity: 0;
   position: absolute;
-  top: 54%;
-  left: 26%;
+  top: 42%;
+  left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%)
 }
@@ -489,13 +489,13 @@ p.story{
 
 }
 
-.col-margin2{
-  margin-top: 10px;
-}
-
-.col-margin4{
-  margin-top: 33px;
-}
+//.col-margin2{
+//  margin-top: 10px;
+//}
+//
+//.col-margin4{
+//  margin-top: 33px;
+//}
 .cd-timeline-content.spoiler{
   background-color: $black;
   transition: .5s ease;

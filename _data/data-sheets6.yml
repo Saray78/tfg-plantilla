@@ -38,34 +38,26 @@
     - char1:
       name: Touya
       img: img/characters2-1-timeline.png
-      col: 4
-      margin: 2
-      middle: 6
       url: characters-timeline6.html
 
     - char2:
       name: Yukito
       img: img/characters2-2-timeline.png
-      col: 4
-      margin: 2
-      middle: 6
       url: characters-timeline7.html
 
     - char3:
       name: Sakura
       img: img/characters1-1-timeline.png
       url: characters-timeline.html
-      col: 4
-      margin: 2
-      middle: 6
+      
 
     world:
     - world1:
       name: Clow
       img: img/world1-1-timeline.png
-      col: 12
+      
       margin: 3
-      middle: 5
+      
       url: world-timeline1.html
 
 
@@ -85,8 +77,6 @@
     - char1:
       img: img/CCS-1.jpg
       name: Card Captor Sakura
-      col: 12
-      middle: 3
       url: wiki2.html
 
   - chapter1-2:
@@ -105,17 +95,12 @@
     - char1:
       name: Touya
       img: img/characters-2-1c.png
-      col: 6
-      margin: 2
-      middle: 2
       url: wiki2-3.html
 
     - char2:
       name: Yukito
       img: img/characters-2-2c.png
-      col: 6
-      margin: 2
-      middle: 2
+
       url: wiki2-4.html
 
   - chapter1:
@@ -133,42 +118,29 @@
     - char1:
       name: Touya
       img: img/characters2-1-timeline.png
-      col: 4
-      margin: 2
-      middle: 6
       url: characters-timeline6.html
 
     - char2:
       name: Yukito
       img: img/characters2-2-timeline.png
-      col: 4
-      margin: 2
-      middle: 6
       url: characters-timeline7.html
 
     - char3:
       name: Sakura
       img: img/characters1-1-timeline.png
       url: characters-timeline.html
-      col: 4
-      margin: 2
-      middle: 6
-      url: characters-timeline.html
 
     - char3:
       name: Syaoran
       img: img/characters1-2-timeline.png
       url: characters-timeline.html
-      col: 4
-      margin: 2
-      middle: 6
+      
+      
       url: characters-timeline2.html
     world:
     - world1:
       name: Clow
       img: img/world1-1-timeline.png
       url:
-      col: 12
       margin: 3
-      middle: 5
       url: world-timeline1.html

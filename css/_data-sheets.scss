@@ -1,5 +1,31 @@
 /* Circular Content Carousel Style */
 
+
+.button button:focus{
+  text-decoration: none;
+  border: none;
+  outline: none;
+}
+
+.button button{
+  font-size: 14pt;
+  background: #b0ccc6;
+  color: $black;
+  font-family: $font;
+  font-weight: $weight-bold;
+  border-radius: 0.5em;
+  height: 40px;
+  width: 166px;
+
+}
+.button{
+  margin: 0 auto;
+  width: 300px;
+  text-align: center;
+}
+
+
+
 .sheet{
   background-image: url("../img/logo4.jpg");
   background-repeat: no-repeat;
@@ -20,7 +46,10 @@
 
 }
 
-
+._text{
+  width: 100%;
+  float: left;
+}
 .ca-container{
   position:relative;
   margin:30px auto 20px auto;
@@ -36,7 +65,7 @@
 .ca-item{
   position:relative;
   left: 83px !important;
-  margin: 0 auto !important;
+  //margin: 0 auto !important;
   width:330px;
   height:100%;
   text-align:center;
@@ -302,17 +331,19 @@ a.ca-more:hover,a.ca-more:focus{
 }
 
 .ca-content-wrapper{
-   background:#b0ccc6;
-   position:absolute;
-   width:0px; /* expands to width of the wrapper minus 1 element */
-   height:440px;
-   top:5px;
-   text-align:left;
-   z-index:3;
-   overflow:hidden;
-   left: 330px;
- }
-
+  left: 330px;
+  overflow: hidden;
+  width: 660px;
+  background:#b0ccc6;
+  position:absolute;
+  //width:0px; /* expands to width of the wrapper minus 1 element */
+  height:440px;
+  top:5px;
+  text-align:left;
+  z-index:3;
+  //overflow:hidden;
+  //left: 330px;
+}
 
 .ca-content-wrapper.ca2{
   background:#f7b9c3 !important;
