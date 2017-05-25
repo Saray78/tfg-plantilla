@@ -44,7 +44,6 @@
       img: img/characters1-1-timeline.png
       url: characters-timeline.html
 
-
     - char2:
       name: Syaoran
       img: img/characters1-2-timeline.png
@@ -109,7 +108,6 @@
       name: Sakura
       img: img/characters1-1-timeline.png
       url: characters-timeline.html
-
 
     - char2:
       name: Syaoran
@@ -233,6 +231,7 @@
       name: Syaoran
       img: img/characters1-2-timeline.png
       url: characters-timeline2.html
+
 
     - char3:
       name: Yuuko
@@ -489,6 +488,7 @@
     - object1:
       name: Pluma
       img: img/object1-1-timeline.png
+
 
 
   - chapter3-1:

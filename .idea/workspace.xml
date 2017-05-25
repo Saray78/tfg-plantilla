@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="90a9dc4c-342d-471b-b018-2dd688fefb1f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
 <<<<<<< HEAD
@@ -28,6 +29,9 @@
 =======
     <list default="true" id="90a9dc4c-342d-471b-b018-2dd688fefb1f" name="Default" comment="" />
 >>>>>>> sss
+=======
+    <list default="true" id="90a9dc4c-342d-471b-b018-2dd688fefb1f" name="Default" comment="" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
     <ignored path="tfg-plantilla.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -51,26 +55,43 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="data-sheets-manga.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/data-sheets-manga.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4728">
               <caret line="197" column="15" lean-forward="false" selection-start-line="197" selection-start-column="15" selection-end-line="197" selection-end-column="15" />
+=======
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="timeline-footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/timeline-footer.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+=======
+      <file leaf-file-name="timeline1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/timeline1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2424">
+              <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="34" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="data-sheet-manga.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/data-sheet-manga.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,10 +116,19 @@
               <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding />
 >>>>>>> arreglos
+=======
+      <file leaf-file-name="data-sheet.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/data-sheet.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="107" column="15" lean-forward="false" selection-start-line="107" selection-start-column="15" selection-end-line="107" selection-end-column="15" />
+              <folding />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="arrow.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/arrow.js">
@@ -118,10 +148,21 @@
               <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="34" />
 >>>>>>> arreglos
               <folding />
+=======
+      <file leaf-file-name="table.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/table.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="manga-timeline.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/manga-timeline.html">
@@ -141,10 +182,21 @@
               <caret line="107" column="15" lean-forward="false" selection-start-line="107" selection-start-column="15" selection-end-line="107" selection-end-column="15" />
 >>>>>>> arreglos
               <folding />
+=======
+      <file leaf-file-name="bootstrap.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="_data-sheets.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/_data-sheets.scss">
@@ -156,6 +208,13 @@
             <state relative-caret-position="5184">
               <caret line="216" column="44" lean-forward="false" selection-start-line="216" selection-start-column="39" selection-end-line="216" selection-end-column="44" />
 >>>>>>> nueva versione
+=======
+      <file leaf-file-name="arrow.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/arrow.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
               <folding />
 =======
       <file leaf-file-name="table.js" pinned="false" current-in-tab="false">
@@ -172,6 +231,7 @@
         </entry>
       </file>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -182,6 +242,13 @@
             <state relative-caret-position="552">
               <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
 >>>>>>> nueva versione
+=======
+      <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/_layout.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="181" column="16" lean-forward="false" selection-start-line="181" selection-start-column="16" selection-end-line="181" selection-end-column="16" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
               <folding />
 =======
       <file leaf-file-name="bootstrap.min.js" pinned="false" current-in-tab="false">
@@ -197,6 +264,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
@@ -220,11 +288,19 @@
             <state relative-caret-position="418">
               <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
 >>>>>>> sss
+=======
+      <file leaf-file-name="_data-sheets.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/_data-sheets.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
@@ -246,11 +322,19 @@
             <state relative-caret-position="261">
               <caret line="181" column="16" lean-forward="false" selection-start-line="181" selection-start-column="16" selection-end-line="181" selection-end-column="16" />
 >>>>>>> arreglos
+=======
+      <file leaf-file-name="_timeline.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/_timeline.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="305" column="9" lean-forward="false" selection-start-line="305" selection-start-column="9" selection-end-line="305" selection-end-column="9" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="header2.html" pinned="false" current-in-tab="false">
@@ -294,6 +378,13 @@
             <state relative-caret-position="120">
               <caret line="5" column="101" lean-forward="false" selection-start-line="5" selection-start-column="101" selection-end-line="5" selection-end-column="101" />
 >>>>>>> arreglos
+=======
+      <file leaf-file-name="timeline-footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/timeline-footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="101" lean-forward="false" selection-start-line="5" selection-start-column="101" selection-end-line="5" selection-end-column="101" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
               <folding />
             </state>
           </provider>
@@ -313,7 +404,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
       <find>world1-1</find>
 >>>>>>> arreglos
       <find>world1-1-</find>
@@ -325,6 +419,7 @@
       <find>world1-1-timeli</find>
       <find>world1-1-timelin</find>
       <find>world1-1-timeline</find>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <find>col</find>
       <find>col-</find>
@@ -348,6 +443,8 @@
       <find>touya</find>
       <find>ca-item</find>
 =======
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
       <find>landin</find>
       <find>text-tim</find>
       <find>text-timeline2</find>
@@ -368,7 +465,10 @@
       <find>ca-close</find>
       <find>sectiom</find>
       <find>ca-conn</find>
+<<<<<<< HEAD
 >>>>>>> arreglos
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
     </findStrings>
     <replaceStrings>
       <replace>col-lg-4</replace>
@@ -387,6 +487,7 @@
       <list>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
         <option value="$PROJECT_DIR$/css/_layout.scss" />
         <option value="$PROJECT_DIR$/_data/data-sheets-wiki2.yml" />
@@ -395,6 +496,8 @@
         <option value="$PROJECT_DIR$/_site/characters-timeline.html" />
 =======
 >>>>>>> arreglos
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         <option value="$PROJECT_DIR$/_includes/data-sheet-wiki2.html" />
 >>>>>>> nueva versione
         <option value="$PROJECT_DIR$/wiki2-1.html" />
@@ -412,6 +515,7 @@
         <option value="$PROJECT_DIR$/_data/data-sheets-world4.yml" />
         <option value="$PROJECT_DIR$/_data/data-sheets-world5.yml" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/css/main.scss" />
         <option value="$PROJECT_DIR$/_data/secundary-characters.yml" />
         <option value="$PROJECT_DIR$/_includes/principal-characters.html" />
@@ -426,6 +530,8 @@
         <option value="$PROJECT_DIR$/_includes/timeline1.html" />
 =======
 >>>>>>> arreglos
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         <option value="$PROJECT_DIR$/_includes/data-sheet2.html" />
         <option value="$PROJECT_DIR$/_data/data-sheets3.yml" />
         <option value="$PROJECT_DIR$/_includes/data-sheet3.html" />
@@ -447,6 +553,7 @@
         <option value="$PROJECT_DIR$/_includes/anime-timeline.html" />
         <option value="$PROJECT_DIR$/_includes/manga-timeline.html" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/_includes/data-sheet-manga.html" />
         <option value="$PROJECT_DIR$/_data/data-sheets-manga.yml" />
         <option value="$PROJECT_DIR$/_includes/timeline-footer.html" />
@@ -457,6 +564,9 @@
 =======
         <option value="$PROJECT_DIR$/css/main.scss" />
 >>>>>>> arreglos
+=======
+        <option value="$PROJECT_DIR$/css/main.scss" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         <option value="$PROJECT_DIR$/_data/secundary-characters.yml" />
         <option value="$PROJECT_DIR$/_data/data-sheets6.yml" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
@@ -467,12 +577,18 @@
         <option value="$PROJECT_DIR$/_data/data-sheets.yml" />
         <option value="$PROJECT_DIR$/_includes/timeline-footer.html" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> nueva versione
 =======
         <option value="$PROJECT_DIR$/_includes/data-sheet.html" />
         <option value="$PROJECT_DIR$/css/_data-sheets.scss" />
         <option value="$PROJECT_DIR$/js/arrow.js" />
 >>>>>>> arreglos
+=======
+        <option value="$PROJECT_DIR$/_includes/data-sheet.html" />
+        <option value="$PROJECT_DIR$/css/_data-sheets.scss" />
+        <option value="$PROJECT_DIR$/js/arrow.js" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
       </list>
     </option>
   </component>
@@ -515,6 +631,23 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="tfg-plantilla - copia" />
+<<<<<<< HEAD
+=======
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tfg-plantilla - copia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tfg-plantilla - copia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -535,6 +668,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="tfg-plantilla" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
@@ -561,6 +695,8 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
               <option name="myItemId" value="tfg-plantilla - copia" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
@@ -580,7 +716,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="tfg-plantilla - copia" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -754,6 +893,7 @@
       <workItem from="1495463050758" duration="23876000" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1495739510979" duration="56000" />
       <workItem from="1495739737161" duration="92000" />
       <workItem from="1495739837436" duration="46000" />
@@ -770,10 +910,15 @@
 =======
       <workItem from="1495729583541" duration="8540000" />
 >>>>>>> sss
+=======
+      <workItem from="1495488808942" duration="970000" />
+      <workItem from="1495729583541" duration="8540000" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -794,6 +939,12 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
 >>>>>>> sss
+=======
+    <option name="totallyTimeSpent" value="222646000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23214285" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -851,6 +1002,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/wiki2-4.html">
@@ -976,6 +1128,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/data-sheets.yml">
 =======
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
     <entry file="file://$PROJECT_DIR$/wiki2-1.html">
 >>>>>>> arreglos
       <provider selected="true" editor-type-id="text-editor">
@@ -985,7 +1139,10 @@
 =======
         <state relative-caret-position="264">
           <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -997,7 +1154,10 @@
 =======
         <state relative-caret-position="336">
           <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1009,7 +1169,10 @@
 =======
         <state relative-caret-position="264">
           <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1022,7 +1185,10 @@
 =======
         <state relative-caret-position="96">
           <caret line="4" column="64" lean-forward="false" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1034,7 +1200,10 @@
 =======
         <state relative-caret-position="312">
           <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1046,7 +1215,10 @@
 =======
         <state relative-caret-position="505">
           <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1057,7 +1229,10 @@
           <caret line="4" column="68" lean-forward="false" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
 =======
           <caret line="4" column="64" lean-forward="false" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1069,7 +1244,10 @@
 =======
         <state relative-caret-position="360">
           <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1081,7 +1259,10 @@
 =======
         <state relative-caret-position="168">
           <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1093,7 +1274,10 @@
 =======
         <state relative-caret-position="168">
           <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1105,7 +1289,10 @@
 =======
         <state relative-caret-position="240">
           <caret line="79" column="82" lean-forward="false" selection-start-line="79" selection-start-column="82" selection-end-line="79" selection-end-column="82" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1117,7 +1304,10 @@
 =======
         <state relative-caret-position="3624">
           <caret line="151" column="61" lean-forward="false" selection-start-line="151" selection-start-column="61" selection-end-line="151" selection-end-column="61" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1129,7 +1319,10 @@
 =======
         <state relative-caret-position="175">
           <caret line="210" column="24" lean-forward="false" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="24" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1148,7 +1341,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="185" column="81" lean-forward="false" selection-start-line="185" selection-start-column="81" selection-end-line="185" selection-end-column="81" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1160,7 +1356,10 @@
 =======
         <state relative-caret-position="251">
           <caret line="291" column="181" lean-forward="false" selection-start-line="291" selection-start-column="181" selection-end-line="291" selection-end-column="181" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1172,7 +1371,10 @@
 =======
         <state relative-caret-position="432">
           <caret line="81" column="82" lean-forward="false" selection-start-line="81" selection-start-column="61" selection-end-line="81" selection-end-column="82" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1184,7 +1386,10 @@
 =======
         <state relative-caret-position="480">
           <caret line="86" column="100" lean-forward="false" selection-start-line="86" selection-start-column="100" selection-end-line="86" selection-end-column="100" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1196,7 +1401,10 @@
 =======
         <state relative-caret-position="480">
           <caret line="173" column="31" lean-forward="false" selection-start-line="173" selection-start-column="31" selection-end-line="173" selection-end-column="31" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1208,6 +1416,7 @@
 =======
         <state relative-caret-position="352">
           <caret line="85" column="84" lean-forward="false" selection-start-line="85" selection-start-column="61" selection-end-line="85" selection-end-column="84" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
         </state>
       </provider>
@@ -1222,6 +1431,8 @@
         <state relative-caret-position="309">
           <caret line="87" column="65" lean-forward="false" selection-start-line="87" selection-start-column="65" selection-end-line="87" selection-end-column="88" />
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1236,7 +1447,10 @@
 =======
         <state relative-caret-position="707">
           <caret line="195" column="14" lean-forward="false" selection-start-line="195" selection-start-column="14" selection-end-line="195" selection-end-column="14" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1248,7 +1462,10 @@
 =======
         <state relative-caret-position="505">
           <caret line="195" column="14" lean-forward="false" selection-start-line="195" selection-start-column="14" selection-end-line="195" selection-end-column="14" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1260,7 +1477,10 @@
 =======
         <state relative-caret-position="491">
           <caret line="196" column="14" lean-forward="false" selection-start-line="196" selection-start-column="14" selection-end-line="196" selection-end-column="14" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1272,7 +1492,10 @@
 =======
         <state relative-caret-position="312">
           <caret line="82" column="82" lean-forward="false" selection-start-line="82" selection-start-column="61" selection-end-line="82" selection-end-column="82" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1284,7 +1507,10 @@
 =======
         <state relative-caret-position="127">
           <caret line="71" column="70" lean-forward="false" selection-start-line="71" selection-start-column="70" selection-end-line="71" selection-end-column="70" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1296,7 +1522,10 @@
 =======
         <state relative-caret-position="223">
           <caret line="180" column="82" lean-forward="false" selection-start-line="180" selection-start-column="60" selection-end-line="180" selection-end-column="82" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1308,7 +1537,10 @@
 =======
         <state relative-caret-position="103">
           <caret line="111" column="11" lean-forward="false" selection-start-line="111" selection-start-column="11" selection-end-line="111" selection-end-column="11" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1321,12 +1553,16 @@
 =======
         <state relative-caret-position="432">
           <caret line="18" column="53" lean-forward="false" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/anime-timeline.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="360">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="197" selection-end-column="22" />
@@ -1337,6 +1573,10 @@
         <state relative-caret-position="264">
           <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
 >>>>>>> nueva versione
+=======
+        <state relative-caret-position="264">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         </state>
       </provider>
     </entry>
@@ -1349,6 +1589,7 @@
 =======
         <state relative-caret-position="-953">
           <caret line="445" column="13" lean-forward="false" selection-start-line="445" selection-start-column="4" selection-end-line="445" selection-end-column="13" />
+<<<<<<< HEAD
 >>>>>>> nueva versione
         </state>
       </provider>
@@ -1380,12 +1621,29 @@
           <caret line="1066" column="12" lean-forward="false" selection-start-line="1066" selection-start-column="12" selection-end-line="1066" selection-end-column="12" />
 <<<<<<< HEAD
 >>>>>>> nueva versione
+=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/data-sheets-manga.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25584">
+          <caret line="1066" column="12" lean-forward="false" selection-start-line="1066" selection-start-column="12" selection-end-line="1066" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/data-sheet-manga.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="78" column="69" lean-forward="false" selection-start-line="78" selection-start-column="69" selection-end-line="78" selection-end-column="69" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
           <folding />
 =======
 >>>>>>> arreglos
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/_data/data-sheets-manga.yml">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -1395,6 +1653,12 @@
         <state relative-caret-position="1872">
           <caret line="78" column="69" lean-forward="false" selection-start-line="78" selection-start-column="69" selection-end-line="78" selection-end-column="69" />
 >>>>>>> nueva versione
+=======
+    <entry file="file://$PROJECT_DIR$/_data/characters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
           <folding />
         </state>
       </provider>
@@ -1429,6 +1693,7 @@
     <entry file="file://$PROJECT_DIR$/_data/secundary-characters.yml">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="552">
           <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
 >>>>>>> nueva versione
@@ -1436,10 +1701,15 @@
         <state relative-caret-position="504">
           <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
 >>>>>>> arreglos
+=======
+        <state relative-caret-position="504">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1456,10 +1726,17 @@
         <state relative-caret-position="505">
           <caret line="168" column="11" lean-forward="false" selection-start-line="168" selection-start-column="11" selection-end-line="168" selection-end-column="11" />
 >>>>>>> arreglos
+=======
+    <entry file="file://$PROJECT_DIR$/_data/data-sheets6.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="168" column="11" lean-forward="false" selection-start-line="168" selection-start-column="11" selection-end-line="168" selection-end-column="11" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/_includes/header2.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1476,6 +1753,259 @@
         <state relative-caret-position="96">
           <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
 >>>>>>> arreglos
+=======
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/characters2.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="8303" column="1" lean-forward="false" selection-start-line="8303" selection-start-column="1" selection-end-line="8303" selection-end-column="1" />
+          <folding>
+            <marker date="1495737885029" expanded="true" signature="189764:189826" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="189836:190000" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="190009:190097" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="190198:190310" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="190335:190379" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="190770:190946" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="190956:191130" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="191139:191172" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="191188:191301" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="191315:191371" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="191382:191528" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="191539:191753" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="191773:191837" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="191890:191945" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="191980:192024" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="192036:192396" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="192414:192433" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="192449:192739" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="192756:193046" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="193057:193221" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="193233:193397" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="193409:193573" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="193585:193749" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="193761:193925" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="193937:194088" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="194100:194264" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="194276:194440" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="194452:194616" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="194629:194793" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="194806:194970" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="194983:195135" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="195148:195307" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="195320:195479" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="195492:195651" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="195664:195823" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="195836:195995" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="196008:196146" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="196159:196300" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="196313:196455" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="196468:196608" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="196621:196762" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="196784:196946" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="196972:197009" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="197023:197078" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="197097:197240" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="197261:197287" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="197304:197521" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="197542:197759" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="197779:197832" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="197854:198007" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="198035:198215" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="198223:198241" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="198249:198296" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="198301:198320" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="198329:198444" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="198455:198652" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="198664:198861" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="198874:198994" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="199008:199128" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="199139:199200" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="199215:199233" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="199246:199265" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="199280:199297" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="199316:199480" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="199499:199663" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="199708:199734" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="199751:199772" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="199785:199810" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="199835:199854" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="199871:199895" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="199897:199984" ph="/*...*/" />
+            <marker date="1495737885029" expanded="true" signature="199996:200183" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="200206:200300" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="200342:200392" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="200399:200450" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="200454:200540" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="200542:200654" ph="/*...*/" />
+            <marker date="1495737885029" expanded="true" signature="200669:200863" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="200886:200954" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="200956:201045" ph="/*...*/" />
+            <marker date="1495737885029" expanded="true" signature="201110:201213" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="201228:201312" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="201335:201486" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="201531:201664" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="201548:201596" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="201621:201662" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="201684:201726" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="201753:201804" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="201837:201857" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="201889:201912" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="201957:202120" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="201980:202002" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="202037:202059" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="202093:202118" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="202137:202184" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="202203:202304" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="202327:202469" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="202499:202525" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="202669:202713" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="202717:202761" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="202794:202879" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="202907:202933" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="202964:202990" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="203035:203521" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="203056:203260" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="203306:203333" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="203379:203519" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="203553:203721" ph="..." />
+            <marker date="1495737885029" expanded="true" signature="203560:203614" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="203621:203675" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="203683:203719" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="203750:203909" ph="..." />
+            <marker date="1495737885029" expanded="true" signature="203757:203808" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="203815:203866" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="203874:203907" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="203933:204453" ph="..." />
+            <marker date="1495737885029" expanded="true" signature="203940:204114" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="204121:204295" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="204303:204451" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="204475:204614" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="204625:204789" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="204818:204837" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="204868:204885" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="204896:205060" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="205089:205108" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="205139:205156" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="205167:205331" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="205360:205379" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="205410:205427" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="205438:205602" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="205631:205650" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="205681:205698" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="205709:205873" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="205902:205921" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="205952:205969" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="205980:206144" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="206173:206192" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="206223:206240" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="206251:206415" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="206426:206590" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="206619:206638" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="206669:206686" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="206715:206734" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="206765:206782" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="206791:206903" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="206930:206974" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="207000:207021" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="207050:207101" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="207130:207149" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="207179:207196" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="207213:207292" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="207302:207392" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="207407:207430" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="207445:207468" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="207499:207602" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="207639:207656" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="207689:207861" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="207897:207939" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="207978:207995" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="208125:208229" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="208278:208311" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="208351:208391" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="208429:208460" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="208505:208547" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="208619:208639" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="208655:208696" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="208718:208735" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="208764:208815" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="208841:208862" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="208954:209000" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="209121:209161" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="209198:209302" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="209355:209387" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="209419:209471" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="209502:209661" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="209705:209974" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="209733:209781" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="209808:209853" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="209923:209972" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="210018:211193" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="210043:210102" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="210135:210230" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="210269:210289" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="210323:210439" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="210588:210701" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="210865:210924" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="210974:211001" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="211051:211191" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="211237:211516" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="211375:211514" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="211548:211735" ph="..." />
+            <marker date="1495737885029" expanded="true" signature="211555:211617" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="211624:211684" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="211692:211733" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="211764:211942" ph="..." />
+            <marker date="1495737885029" expanded="true" signature="211771:211830" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="211837:211894" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="211902:211940" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="211966:212581" ph="..." />
+            <marker date="1495737885029" expanded="true" signature="211973:212187" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="212194:212398" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="212406:212579" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="212621:212808" ph="..." />
+            <marker date="1495737885029" expanded="true" signature="212628:212689" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="212696:212757" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="212765:212806" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="212845:213023" ph="..." />
+            <marker date="1495737885029" expanded="true" signature="212852:212910" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="212917:212975" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="212983:213021" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="213055:213670" ph="..." />
+            <marker date="1495737885029" expanded="true" signature="213062:213271" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="213278:213487" ph="{...}" />
+            <marker date="1495737885029" expanded="true" signature="213495:213668" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/chars.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/data-sheets.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="533" column="0" lean-forward="false" selection-start-line="533" selection-start-column="0" selection-end-line="533" selection-end-column="0" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
           <folding />
         </state>
       </provider>
@@ -1483,6 +2013,7 @@
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1496,10 +2027,15 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
 >>>>>>> arreglos
+=======
+        <state relative-caret-position="271">
+          <caret line="305" column="9" lean-forward="false" selection-start-line="305" selection-start-column="9" selection-end-line="305" selection-end-column="9" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1739,10 +2275,17 @@
         <state relative-caret-position="175">
           <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="7" />
 >>>>>>> arreglos
+=======
+    <entry file="file://$PROJECT_DIR$/css/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="181" column="16" lean-forward="false" selection-start-line="181" selection-start-column="16" selection-end-line="181" selection-end-column="16" />
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/css/_data-sheets.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -1781,6 +2324,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
+=======
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> 36610794f7de129ae5c3f3483505304f505d876e
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
