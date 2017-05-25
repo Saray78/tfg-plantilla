@@ -43,19 +43,10 @@
       name: Sakura
       img: img/characters1-1-timeline.png
       url: characters-timeline.html
-      col: 6
-      middle: 2
-      margin: 2
 
     - char2:
       name: Syaoran
       img: img/characters1-2-timeline.png
-      url: characters-timeline2.html
-      col: 6
-      middle: 2
-      margin: 2
-
-
 
   - chapter1-1:
     title:
@@ -73,8 +64,6 @@
     - char1:
       img: img/CCS-1.jpg
       name: Card Captor Sakura
-      col: 12
-      middle: 3
       url: wiki2.html
 
   - chapter1-2:
@@ -93,17 +82,11 @@
     - char1:
       name: Sakura
       img: img/characters-1-1c.png
-      col: 6
-      middle: 4
-      margin: 2
       url: wiki2-1.html
 
     - char2:
       name: Shaoran
       img: img/characters1-2c.png
-      col: 6
-      middle: 4
-      margin: 2
       url: wiki2-2.html
 
   - chapter1-3:
@@ -111,7 +94,6 @@
     name-title: UN ENCUENTRO INEVITABLE
     plot: TRAMA
     text: La joven princesa irrumpe, en casa de su amigo Syaoran que acaba de llegar del yacimiento de ruinas. Allí es convencida por él para pasear por la ciudad hasta el anochecer. cuando ella intenta confesar su amor por él, es interrumpida y forzada a regresar al castillo.
-#    text: Al caer la tarde,
     characters: Personajes
     landing: País
     isFirst: false
@@ -124,25 +106,16 @@
       name: Sakura
       img: img/characters1-1-timeline.png
       url: characters-timeline.html
-      margin: 2
-      col: 6
-      middle: 2
 
     - char2:
       name: Syaoran
       img: img/characters1-2-timeline.png
       url: characters-timeline2.html
-      margin: 2
-      col: 6
-      middle: 2
 
     world:
     - world1:
       name: Clow
       img: img/world1-1-timeline.png
-      col: 12
-      margin: 3
-      middle: 5
       hid:
       url: world-timeline1.html
 
@@ -151,7 +124,6 @@
     name-title: UN ENCUENTRO INEVITABLE
     plot: Trama
     text: Al llegar a palacio oye a su hermano Touya y al sacerdote Yukito sobre una mapa de unas ruinas encontradas; en ese momento sabemos que Touya, el rey no aprueba la relación que tiene con Syaoran. Más tarde, al llegar a su habitación, oye unas campanas y es llevada por una fuerza misteriosa hacia los ruinas.
-#    text: Sakura es llevada por una extraña fuerza dentro de las ruinas, donde al entrar, sus recuerdos se manifiestan en forma de plumas de luz.
     characters: Personajes
     landing: País
     isFirst: false
@@ -164,33 +136,21 @@
       name: Sakura
       img: img/characters1-1-timeline.png
       url: characters-timeline.html
-      col: 4
-      margin: 2
-      middle: 6
 
     - char2:
       name: Touya
       img: img/characters2-1-timeline.png
-      col: 4
-      margin: 2
-      middle: 6
       url: characters-timeline6.html
 
     - char3:
       name: Yukito
       img: img/characters2-2-timeline.png
-      col: 4
-      margin: 2
-      middle: 6
       url: characters-timeline7.html
 
     world:
     - world1:
       name: Clow
       img: img/world1-1-timeline.png
-      col: 12
-      margin: 3
-      middle: 5
       url: world-timeline1.html
 
   - chapter1-5:
@@ -209,17 +169,11 @@
     - char1:
       name: Touya
       img: img/characters-2-1c.png
-      col: 6
-      margin: 2
-      middle: 2
       url: wiki2-3.html
 
     - char2:
       name: Yukito
       img: img/characters-2-2c.png
-      col: 6
-      margin: 2
-      middle: 2
       url: wiki2-4.html
 
   - chapter1-6:
@@ -227,7 +181,6 @@
     name-title: UN ENCUENTRO INEVITABLE
     plot: Trama
     text: En las ruinas, encuentra a Syaoran, quién seguía con su investigación del pasado de ese páis a través de éstas. Bajo sus pies, se haya una roca que al contacto con Sakura, a la joven le crecen unas alas luminosas que se esparcen despareciendo del lugar. Pierde la conciencia y es llevada por Syaoran de vuelta al palacio.
- #  text: Sakura es llevada por una extraña fuerza dentro de las ruinas, donde al entrar, sus recuerdos se manifiestan en forma de plumas de luz.
     characters: Personajes
     landing: País
     isFirst: false
@@ -240,25 +193,16 @@
       name: Sakura
       img: img/characters1-1-timeline.png
       url: characters-timeline.html
-      col: 6
-      margin: 2
-      middle: 2
 
     - char2:
       name: Syaoran
       img: img/characters1-2-timeline.png
       url: characters-timeline2.html
-      col: 6
-      margin: 2
-      middle: 2
 
     world:
     - world1:
       name: Clow
       img: img/world1-1-timeline.png
-      col: 12
-      margin: 3
-      middle: 5
       url: world-timeline1.html
 
 
@@ -279,17 +223,12 @@
       name: Sakura
       img: img/characters1-1-timeline.png
       url: characters-timeline.html
-      col: 4
-      margin: 2
-      middle: 6
 
     - char2:
       name: Syaoran
       img: img/characters1-2-timeline.png
       url: characters-timeline2.html
-      col: 4
-      margin: 2
-      middle: 6
+
 
     - char2:
       name: Yuuko
@@ -303,16 +242,11 @@
     - world1:
       name: Clow
       img: img/world1-1-timeline.png
-      col: 4
-      margin: 3
-      middle: 6
       url: world-timeline1.html
 
     - world2:
       name: Japón actual
       img: img/world1-2-timeline.png
-      col: 4
-      margin: 3
       hidden: hid
       middle: 6
       url: world-timeline3.html
@@ -349,9 +283,6 @@
     - char1:
       name: xxxHolic
       img: img/crossover2.jpg
-      col: 12
-      middle: 7
-      margin: 3
 
 
   - chapter1-10:
@@ -370,9 +301,7 @@
     - char1:
       name: Yuuko
       img: img/characters-2-3c.png
-      col: 12
-      middle: 5
-      margin: 3
+
 
   - chapter2:
     title: Capítulo 2
@@ -392,34 +321,24 @@
       name: Sakura
       img: img/characters1-1-timeline.png
       url: characters-timeline.html
-      col: 3
-      margin: 3
-      middle:
+
 
     - char2:
       name: Syaoran
       img: img/characters1-2-timeline.png
       url: characters-timeline2.html
-      col: 3
-      margin: 3
-      middle:
+
 
     - char3:
       name: Fye
       img: img/characters1-3-timeline.png
       url: characters-timeline3.html
-      col: 3
-      margin: 3
-      middle:
       url: characters-timeline3.html
 
     - char4:
       name: Kurogane
       img: img/characters1-4-timeline.png
       url: characters-timeline4.html
-      col: 3
-      margin: 3
-      middle:
       url: characters-timeline4.html
 
     - char5:
@@ -436,9 +355,6 @@
     - world1:
       name: República <br> Hanshin
       img: img/world1-3-timeline.png
-      col: 12
-      margin: 3
-      middle: 5
       hid:
       url: world-timeline5.html
 
@@ -459,9 +375,7 @@
     - char1:
       name: Magin Knight Rayearth
       img: img/crossover3.jpg
-      col: 12
-      middle: 8
-      margin: 3
+
 
 
   - chapter2-3:
@@ -480,9 +394,6 @@
     - char1:
       name: Mokona
       img: img/characters-2-5c.png
-      col: 12
-      middle: 5
-      margin: 3
 
 
   - chapter2-4:
@@ -502,50 +413,34 @@
       name: Sakura
       img: img/characters1-1-timeline.png
       url: characters-timeline.html
-      col: 3
-      margin: 3
-      middle:
 
     - char2:
       name: Syaoran
       img: img/characters1-2-timeline.png
       url: characters-timeline2.html
-      col: 3
-      margin: 3
-      middle:
+
 
     - char3:
       name: Fye
       img: img/characters1-3-timeline.png
       url: characters-timeline3.html
-      col: 3
-      margin: 3
-      middle:
 
     - char4:
       name: Kurogane
       img: img/characters1-4-timeline.png
       url: characters-timeline4.html
-      col: 3
-      margin: 3
-      middle:
+
 
     - char5:
       name: Mokona
       img: img/characters1-5-timeline.png
       url: characters-timeline5.html
-      col: 12
-      margin: 4
-      middle: 5
 
 
     world:
     - world1:
       name: República <br> Hanshin
       img: img/world1-3-timeline.png
-      col: 12
-      margin: 3
-      middle: 5
       hid:
       url: world-timeline5.html
 
@@ -571,31 +466,21 @@
       name: Sakura
       img: img/characters1-1-timeline.png
       url: characters-timeline.html
-      col: 4
-      margin: 3
-      middle: 6
 
     - char2:
       name: Arashi
       img: img/characters2-4-timeline.png
-      col: 4
-      margin: 3
-      middle: 6
+
 
     - char3:
       name: Sorata
       img: img/characters2-5-timeline.png
-      col: 4
-      margin: 3
-      middle: 6
+
 
     world:
     - world1:
       name: República <br> Hanshin
       img: img/world1-3-timeline.png
-      col: 12
-      margin: 3
-      middle: 5
       hid:
       url: world-timeline5.html
 
@@ -603,9 +488,6 @@
     - object1:
       name: Pluma
       img: img/object1-1-timeline.png
-      col: 12
-      margin: 3
-      middle: 5
       hid:
 
 
@@ -625,9 +507,7 @@
     - char1:
       name: X (Ekusu)
       img: img/crossover4.jpg
-      col: 12
-      middle: 9
-      margin: 3
+
 
 
   - chapter3-2:
@@ -646,13 +526,8 @@
     - char1:
       name: Arashi
       img: img/characters-2-6c.png
-      col: 6
-      middle: 2
-      margin: 2
+
 
     - char2:
       name: Sorata
       img: img/characters-2-7c.png
-      col: 6
-      middle: 2
-      margin: 2

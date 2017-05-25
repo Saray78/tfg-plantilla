@@ -23,18 +23,18 @@
                 <h3 class="text-timeline">{{timeline2.characters}}</h3>
 
                 {%for timeline3 in timeline2.char%}
-                <div class="col-lg-{{timeline3.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline3.margin}} inside-char2">
+                <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 col-margin inside-char2">
                     <img src="{{timeline3.img}}" class="image">
-                    <div class="middle{{timeline3.middle}}">
+                    <div class="middle">
                         <div class="text2"><a href="{{timeline3.url}}" target="_blank">{{timeline3.name}}</a></div>
                     </div>
                 </div>
                 {%endfor%}
                 <h3 class="text-timeline">{{timeline2.landing}}</h3>
                 {%for timeline4 in timeline2.world%}
-                <div class="col-lg-{{timeline4.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline4.margin}} inside-char2">
+                <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 col-margin{{timeline4.margin}} inside-char2">
                     <img src="{{timeline4.img}}" class="image">
-                    <div class="middle{{timeline4.middle}}">
+                    <div class="middle2">
                         <div class="text2"><a href="{{timeline4.url}}" target="_blank">{{timeline4.name}}</a></div>
                     </div>
                 </div>
@@ -52,23 +52,24 @@
                 <h3 class="text-timeline">{{timeline2.characters}}</h3>
 
                 {%for timeline3 in timeline2.char%}
-                <div class="col-lg-{{timeline3.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline3.margin}} inside-char2">
+                <div class="col-lg-12 col-md-3 col-sm-6 col-xs-12 col-margin5 inside-char2">
                     <img src="{{timeline3.img}}" class="image">
-                    <div class="middle{{timeline3.middle}}">
+                    <div class="middle">
                         <div class="text2"><a href="{{timeline3.url}}" target="_blank">{{timeline3.name}}</a></div>
                     </div>
                 </div>
                 {%endfor%}
+
                 <h3 class="text-timeline">{{timeline2.landing}}</h3>
                 {%for timeline4 in timeline2.world%}
-                <div class="col-lg-{{timeline4.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline4.margin}} inside-char2">
+                <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 col-margin inside-char2">
                     <img src="{{timeline4.img}}" class="image">
-                    <div class="middle{{timeline4.middle}}">
+                    <div class="middle2">
                         <div class="text2"><a href="{{timeline4.url}}" target="_blank">{{timeline4.name}}</a></div>
                     </div>
                 </div>
                 {%endfor%}
-                <span class="cd-date">Jan 14</span>
+                <!--<span class="cd-date">Jan 14</span>-->
             </div>
 
         </div> <!-- cd-timeline-content -->
@@ -83,18 +84,18 @@
                     <h3 class="text-timeline">{{timeline2.characters}}</h3>
 
                     {%for timeline3 in timeline2.char%}
-                    <div class="col-lg-{{timeline3.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline3.col}} inside-char2">
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-margin{{timeline3.col}} inside-char2">
                         <img src="{{timeline3.img}}" class="image">
-                        <div class="middle{{timeline3.middle}}">
+                        <div class="middle">
                             <div class="text2"><a href="{{timeline3.url}}" target="_blank">{{timeline3.name}}</a></div>
                         </div>
                     </div>
                     {%endfor%}
                     <h3 class="text-timeline">{{timeline2.landing}}</h3>
                     {%for timeline4 in timeline2.world%}
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-margin{{timeline4.col}} inside-char2">
+                    <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 col-margin{{timeline4.col}} inside-char2">
                         <img src="{{timeline4.img}}" class="image">
-                        <div class="middle{{timeline4.middle}}">
+                        <div class="middle2">
                             <div class="text2"><a href="{{timeline4.url}}" target="_blank">{{timeline4.name}}</a></div>
                         </div>
                     </div>
@@ -113,23 +114,23 @@
                 <h3 class="text-timeline">{{timeline2.characters}}</h3>
 
                 {%for timeline3 in timeline2.char%}
-                <div class="col-lg-{{timeline3.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline3.col}} inside-char2">
+                <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 col-margin inside-char2">
                     <img src="{{timeline3.img}}" class="image">
-                    <div class="middle{{timeline3.middle}}">
+                    <div class="middle">
                         <div class="text2"><a href="{{timeline3.url}}" target="_blank">{{timeline3.name}}</a></div>
                     </div>
                 </div>
                 {%endfor%}
                 <h3 class="text-timeline">{{timeline2.landing}}</h3>
                 {%for timeline4 in timeline2.world%}
-                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-margin{{timeline4.col}} inside-char2">
+                <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 col-margin inside-char2">
                     <img src="{{timeline4.img}}" class="image">
-                    <div class="middle{{timeline4.middle}}">
+                    <div class="middle2">
                         <div class="text2"><a href="">{{timeline4.name}}</a></div>
                     </div>
                 </div>
                 {%endfor%}
-                <span class="cd-date">Jan 14</span>
+                <!--<span class="cd-date">Jan 14</span>-->
             </div>
         </div> <!-- cd-timeline-content -->
 
@@ -142,37 +143,44 @@
             <h3 class="text-timeline">{{timeline2.characters}}</h3>
 
             {%for timeline3 in timeline2.char%}
-            <div class="col-lg-{{timeline3.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline3.margin}} inside-char2">
+            <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 col-margin inside-char2">
                 <img src="{{timeline3.img}}" class="image">
-                <div class="middle{{timeline3.middle}}">
+                <div class="middle">
                     <div class="text2"><a href="{{timeline3.url}}" target="_blank">{{timeline3.name}}</a></div>
                 </div>
             </div>
             {%endfor%}
-            <h3 class="text-timeline2 {{timeline4.hidden}}">{{timeline2.landing}}</h3>
+            <div class="_text">
+                <h3 class="text-timeline {{timeline4.hidden}}">{{timeline2.landing}}</h3>
+            </div>
+
             {%for timeline4 in timeline2.world%}
-          <div class="col-lg-{{timeline4.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline4.margin}} inside-char2">
+          <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 col-margin inside-char2">
 
               <img src="{{timeline4.img}}" class="image">
-              <div class="middle{{timeline4.middle}}">
+              <div class="middle2">
                   <div class="text2"><a href="{{timeline4.url}}" target="_blank">{{timeline4.name}}</a></div>
               </div>
           </div>
           {%endfor%}
-            <h3 class="text-timeline2 {{timeline5.hidden}}">{{timeline2.object-name}}</h3>
+            <div class="_text">
+                <h3 class="text-timeline {{timeline5.hidden}}">{{timeline2.object-name}}</h3>
+            </div>
             {%for timeline5 in timeline2.object%}
-            <div class="col-lg-{{timeline5.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline5.margin}} inside-char2">
+            <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 col-margin inside-char2">
                 <img src="{{timeline5.img}}" class="image">
-                <div class="middle{{timeline5.middle}}">
+                <div class="middle">
                     <div class="text2"><a href="{{timeline5.url}}" target="_blank">{{timeline5.name}}</a></div>
                 </div>
             </div>
             {%endfor%}
-            <h3 class="text-timeline2 {{timeline5.hidden}}">{{timeline2.weapon}}</h3>
+            <div class="_text">
+                <h3 class="text-timeline {{timeline5.hidden}}">{{timeline2.weapon}}</h3>
+            </div>
             {%for timeline6 in timeline2.weapon%}
-            <div class="col-lg-{{timeline6.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline6.margin}} inside-char2">
+            <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 col-margin inside-char2">
                 <img src="{{timeline6.img}}" class="image">
-                <div class="middle{{timeline6.middle}}">
+                <div class="middle">
                     <div class="text2"><a href="{{timeline6.url}}" target="_blank">{{timeline6.name}}</a></div>
                 </div>
             </div>
