@@ -74,7 +74,6 @@
 
         </div> <!-- cd-timeline-content -->
 
-<<<<<<< HEAD
         {%elsif timeline2.isSpoiler == true%}
         <div class="cd-timeline-content {{timeline2.css_class}}">
             <h1>Spoiler</h1>
@@ -98,32 +97,6 @@
                     <img src="{{timeline4.img}}" class="image">
                     <div class="middle2">
                         <div class="text2"><a href="{{timeline4.url}}" target="_blank">{{timeline4.name}}</a></div>
-=======
-            {%elsif timeline2.isSpoiler == true%}
-            <div class="cd-timeline-content {{timeline2.css_class}}">
-                <h1>Spoiler</h1>
-                <div class="hide-content">
-                    <h2 class="text-timeline">{{timeline2.name-title}}</h2>
-                    <h3 class="text-timeline">{{timeline2.plot}}</h3>
-                    <p class="story">{{timeline2.text}}</p>
-                    <h3 class="text-timeline">{{timeline2.characters}}</h3>
-
-                    {%for timeline3 in timeline2.char%}
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 col-margin{{timeline3.col}} inside-char2">
-                        <img src="{{timeline3.img}}" class="image">
-                        <div class="middle">
-                            <div class="text2"><a href="{{timeline3.url}}" target="_blank">{{timeline3.name}}</a></div>
-                        </div>
-                    </div>
-                    {%endfor%}
-                    <h3 class="text-timeline">{{timeline2.landing}}</h3>
-                    {%for timeline4 in timeline2.world%}
-                    <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 col-margin{{timeline4.col}} inside-char2">
-                        <img src="{{timeline4.img}}" class="image">
-                        <div class="middle2">
-                            <div class="text2"><a href="{{timeline4.url}}" target="_blank">{{timeline4.name}}</a></div>
-                        </div>
->>>>>>> arreglos
                     </div>
                 </div>
                 {%endfor%}
@@ -182,7 +155,6 @@
             </div>
 
             {%for timeline4 in timeline2.world%}
-<<<<<<< HEAD
             <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 col-margin inside-char2">
 
                 <img src="{{timeline4.img}}" class="image">
@@ -191,16 +163,6 @@
                 </div>
             </div>
             {%endfor%}
-=======
-          <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12 col-margin inside-char2">
-
-              <img src="{{timeline4.img}}" class="image">
-              <div class="middle2">
-                  <div class="text2"><a href="{{timeline4.url}}" target="_blank">{{timeline4.name}}</a></div>
-              </div>
-          </div>
-          {%endfor%}
->>>>>>> arreglos
             <div class="_text">
                 <h3 class="text-timeline {{timeline5.hidden}}">{{timeline2.object-name}}</h3>
             </div>
@@ -220,6 +182,16 @@
                 <img src="{{timeline6.img}}" class="image">
                 <div class="middle">
                     <div class="text2"><a href="{{timeline6.url}}" target="_blank">{{timeline6.name}}</a></div>
+                </div>
+            </div>
+            {%endfor%}
+
+            <h3 class="text-timeline2 {{timeline6.hidden}}">{{timeline2.ability2}}</h3>
+            {%for timeline7 in timeline2.ability%}
+            <div class="col-lg-{{timeline7.col}} col-md-3 col-sm-6 col-xs-12 col-margin{{timeline7.margin}} inside-char2">
+                <img src="{{timeline7.img}}" class="image">
+                <div class="middle{{timeline7.middle}}">
+                    <div class="text2"><a href="{{timeline7.url}}" target="_blank">{{timeline7.name}}</a></div>
                 </div>
             </div>
             {%endfor%}
