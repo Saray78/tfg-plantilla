@@ -24,8 +24,6 @@
   text-align: center;
 }
 
-
-
 .sheet{
   background-image: url("../img/logo4.jpg");
   background-repeat: no-repeat;
@@ -45,6 +43,11 @@
   width: 100%;
 
 }
+._text{
+  width: 100%;
+  float: left;
+}
+
 
 ._text{
   width: 100%;
@@ -63,7 +66,7 @@
   position:relative;
 }
 .ca-item{
-  position:relative;
+  position: absolute;
   left: 83px !important;
   //margin: 0 auto !important;
   width:330px;
@@ -334,16 +337,17 @@ a.ca-more:hover,a.ca-more:focus{
   left: 330px;
   overflow: hidden;
   width: 660px;
-  background:#b0ccc6;
-  position:absolute;
-  //width:0px; /* expands to width of the wrapper minus 1 element */
-  height:440px;
-  top:5px;
-  text-align:left;
-  z-index:3;
-  //overflow:hidden;
-  //left: 330px;
-}
+   background:#b0ccc6;
+   position:absolute;
+   //width:0px; /* expands to width of the wrapper minus 1 element */
+   height:440px;
+   top:5px;
+   text-align:left;
+   z-index:3;
+   //overflow:hidden;
+   //left: 330px;
+ }
+
 
 .ca-content-wrapper.ca2{
   background:#f7b9c3 !important;

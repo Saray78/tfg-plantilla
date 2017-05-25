@@ -20,7 +20,6 @@ $(document).ready(function(){
 
 });
 
-
 $(function(){
 
     $('a[href*=#]').click(function() {
@@ -45,5 +44,6 @@ $(function(){
         }
 
     });
-
 });
+
+
